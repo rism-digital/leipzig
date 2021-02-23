@@ -1,5 +1,5 @@
-Copyright (c) 2014, Etienne Darbellay, Jean-Francois Marti
-and Laurent Pugin (info@rism.digital), with Reserved Font Name "Leipzig".
+Copyright (c) 2014, Etienne Darbellay, Jean-Francois Martiand Laurent Pugin (info@rism.digital), 
+with Reserved Font Name "Leipzig".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
