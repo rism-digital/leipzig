@@ -60,3 +60,4 @@ Version 5.2.49 - adding arabic accidentals
 Version 5.2.50 - adding more clefs, notehead parentheses and slash noteheads
 Version 5.2.51 - adding old quarter rests and fingering numerals
 Version 5.2.52 - adding old accidentals and completing the octaves range
+Version 5.2.53 - fix arpeggio arrow down direction
