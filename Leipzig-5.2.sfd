@@ -4,7 +4,7 @@ FullName: Leipzig
 FamilyName: Leipzig
 Weight: Regular
 Copyright: Created by Etienne Darbellay, Jean-Francois Marti and Laurent Pugin. \nThis font is licensed under the SIL Open Font License \\(http://scripts.sil.org/OFL\\).\nVersion 5.2.53
-FontLog: "FONTLOG for the Leipzig font+AAoAPQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0ACgAK-This file provides detailed information on the Leipzig Font Software. This information should be distributed along with the Leipzig font and any derivative works.+AAoACgAA-Change log+AAoA-----------+AAoACgAA-2014-03-21: Created.+AAoA-Version 5.2.0 - adding glyphs (dynamics, ornaments, mensural note heads, etc)+AAoA-Version 5.2.1 - adding repeats+AAoA-Version 5.2.2 - fixing size of some glpyhs+AAoA-Version 5.2.3 - adding mensural clefs+AAoA-Version 5.2.4 - adding more dynam glyphs+AAoA-Version 5.2.5 - adding more dynam glyphs+AAoA-Version 5.2.6 - adding some octaves glyphs+AAoA-Version 5.2.7 - adjusting pedal glyphs+AAoA-Version 5.2.8 - adding perc clef+AAoA-Version 5.2.9 - adding two mensural clefs+AAoA-Version 5.2.10 - adding articulations and two fermatas and bow directions+AAoA-Version 5.2.11 - adding harmonic and reviewing bows+AAoA-Version 5.2.12 - reviewing artic width+AAoA-Version 5.2.13 - adding (very)short/long fermata and breath comma+AAoA-Version 5.2.14 - adding mensural stems+AAoA-Version 5.2.15 - changing ascent/descent to 750/250+AAoA-Version 5.2.16 - adding mensural rests+AAoA-Version 5.2.17 - correcting mensural rests position+AAoA-Version 5.2.18 - adding accid square brackets and reviewing bow directions+AAoA-Version 5.2.19 - adding some quartertone accidentals (Gould and Stein-Zimmermann)+AAoA-Version 5.2.20 - adding some anchor points (accidentals)+AAoA-Version 5.2.21 - adding stem flags (16th to 256th)+AAoA-Version 5.2.22 - fixing anchor point names+AAoA-Version 5.2.23 - adding anchor points to all accidentals+AAoA-Version 5.2.24 - changing 8th flags+AAoA-Version 5.2.25 - reviewing mensural clefs+AAoA-Version 5.2.26 - revising position of some rests+AAoA-Version 5.2.27 - adding some anchor points to note heads+AAoA-Version 5.2.28 - correcting anchor points+AAoA-Version 5.2.29 - adding plus time signature symbols+AAoA-Version 5.2.30 - adding some combining strokes for trills+AAoA-Version 5.2.31 - adding some arpegio glyphs (Mulit-segment lines)+AAoA-Version 5.2.32 - adding pedal sostenuto glyph+AAoA-Version 5.2.33 - adding mensural prolations+AAoA-Version 5.2.34 - adding some tablature glyphs+AAoA-Version 5.2.35 - adding 512th and 1024th flags+AAoA-Version 5.2.36 - adding 512th and 1024th rests+AAoA-Version 5.2.37 - adding some more tablature glyphs+AAoA-Version 5.2.38 - validating font+AAoA-Version 5.2.39 - adjusting some more tablature glyphs+AAoA-Version 5.2.40 - adding brace glyph+AAoA-Version 5.2.41 - adding sprechgesang glyph+AAoA-Version 5.2.42 - adding some notehead glyphs+AAoA-Version 5.2.43 - adding buzz roll glyph+AAoA-Version 5.2.44 - adding anchor points to noteheads+AAoA-Version 5.2.45 - adding precomposed ornaments+AAoA-Version 5.2.46 - adding single P and S for piano pedal+AAoA-Version 5.2.47 - adding glyphs for longer rests+AAoA-Version 5.2.48 - adding baroque ornament+AAoA-Version 5.2.49 - adding arabic accidentals+AAoA-Version 5.2.50 - adding more clefs, notehead parentheses and slash noteheads+AAoA-Version 5.2.51 - adding old quarter rests and fingering numerals+AAoA-Version 5.2.52 - adding old accidentals and completing the octaves range+AAoA-Version 5.2.53 - fix arpeggio arrow down direction"
+FontLog: "FONTLOG for the Leipzig font+AAoAPQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0ACgAK-This file provides detailed information on the Leipzig Font Software. This information should be distributed along with the Leipzig font and any derivative works.+AAoACgAA-Change log+AAoA-----------+AAoACgAA-2014-03-21: Created.+AAoA-Version 5.2.0 - adding glyphs (dynamics, ornaments, mensural note heads, etc)+AAoA-Version 5.2.1 - adding repeats+AAoA-Version 5.2.2 - fixing size of some glpyhs+AAoA-Version 5.2.3 - adding mensural clefs+AAoA-Version 5.2.4 - adding more dynam glyphs+AAoA-Version 5.2.5 - adding more dynam glyphs+AAoA-Version 5.2.6 - adding some octaves glyphs+AAoA-Version 5.2.7 - adjusting pedal glyphs+AAoA-Version 5.2.8 - adding perc clef+AAoA-Version 5.2.9 - adding two mensural clefs+AAoA-Version 5.2.10 - adding articulations and two fermatas and bow directions+AAoA-Version 5.2.11 - adding harmonic and reviewing bows+AAoA-Version 5.2.12 - reviewing artic width+AAoA-Version 5.2.13 - adding (very)short/long fermata and breath comma+AAoA-Version 5.2.14 - adding mensural stems+AAoA-Version 5.2.15 - changing ascent/descent to 750/250+AAoA-Version 5.2.16 - adding mensural rests+AAoA-Version 5.2.17 - correcting mensural rests position+AAoA-Version 5.2.18 - adding accid square brackets and reviewing bow directions+AAoA-Version 5.2.19 - adding some quartertone accidentals (Gould and Stein-Zimmermann)+AAoA-Version 5.2.20 - adding some anchor points (accidentals)+AAoA-Version 5.2.21 - adding stem flags (16th to 256th)+AAoA-Version 5.2.22 - fixing anchor point names+AAoA-Version 5.2.23 - adding anchor points to all accidentals+AAoA-Version 5.2.24 - changing 8th flags+AAoA-Version 5.2.25 - reviewing mensural clefs+AAoA-Version 5.2.26 - revising position of some rests+AAoA-Version 5.2.27 - adding some anchor points to note heads+AAoA-Version 5.2.28 - correcting anchor points+AAoA-Version 5.2.29 - adding plus time signature symbols+AAoA-Version 5.2.30 - adding some combining strokes for trills+AAoA-Version 5.2.31 - adding some arpegio glyphs (Mulit-segment lines)+AAoA-Version 5.2.32 - adding pedal sostenuto glyph+AAoA-Version 5.2.33 - adding mensural prolations+AAoA-Version 5.2.34 - adding some tablature glyphs+AAoA-Version 5.2.35 - adding 512th and 1024th flags+AAoA-Version 5.2.36 - adding 512th and 1024th rests+AAoA-Version 5.2.37 - adding some more tablature glyphs+AAoA-Version 5.2.38 - validating font+AAoA-Version 5.2.39 - adjusting some more tablature glyphs+AAoA-Version 5.2.40 - adding brace glyph+AAoA-Version 5.2.41 - adding sprechgesang glyph+AAoA-Version 5.2.42 - adding some notehead glyphs+AAoA-Version 5.2.43 - adding buzz roll glyph+AAoA-Version 5.2.44 - adding anchor points to noteheads+AAoA-Version 5.2.45 - adding precomposed ornaments+AAoA-Version 5.2.46 - adding single P and S for piano pedal+AAoA-Version 5.2.47 - adding glyphs for longer rests+AAoA-Version 5.2.48 - adding baroque ornament+AAoA-Version 5.2.49 - adding arabic accidentals+AAoA-Version 5.2.50 - adding more clefs, notehead parentheses and slash noteheads+AAoA-Version 5.2.51 - adding old quarter rests and fingering numerals+AAoA-Version 5.2.52 - adding old accidentals and completing the octaves range+AAoA-Version 5.2.53 - fix arpeggio arrow down direction+AAoA-Version 5.2.54 - fix time signature margins"
 Version: 5.2.53
 ItalicAngle: 0
 UnderlinePosition: -50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1395388130
-ModificationTime: 1620818914
+ModificationTime: 1625571421
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60049 11 4
+WinInfo: 57453 11 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -88,363 +88,363 @@ EndChar
 
 StartChar: uniE080
 Encoding: 57472 57472 1
-Width: 427
+Width: 454
 VWidth: 2048
 Flags: W
-HStem: -250 36<167.017 247.235> 217 34<171.562 241.776>
-VStem: 0 119<-110.378 116.595> 291 123<-102.976 111.667>
+HStem: -250 36<187.017 267.235> 217 34<191.562 261.776>
+VStem: 20 119<-110.378 116.595> 311 123<-102.976 111.667>
 LayerCount: 2
 Fore
 SplineSet
-209 251 m 1024
-210 -250 m 4
- 111 -250 0 -156 0 1 c 0
- 0 153 93 251 209 251 c 0
- 325 251 414 132 414 1 c 256
- 414 -138 311 -250 210 -250 c 4
-119 1 m 0
- 119 -78 132 -214 207 -214 c 0
- 275 -214 291 -102 291 1 c 0
- 291 77 276 217 207 217 c 0
- 139 217 119 81 119 1 c 0
+229 251 m 1024
+230 -250 m 0
+ 131 -250 20 -156 20 1 c 0
+ 20 153 113 251 229 251 c 0
+ 345 251 434 132 434 1 c 256
+ 434 -138 331 -250 230 -250 c 0
+139 1 m 0
+ 139 -78 152 -214 227 -214 c 0
+ 295 -214 311 -102 311 1 c 0
+ 311 77 296 217 227 217 c 0
+ 159 217 139 81 139 1 c 0
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE081
 Encoding: 57473 57473 2
-Width: 296
+Width: 336
 VWidth: 2048
 Flags: W
-HStem: -250 36<48 96.5723 249.427 296>
-VStem: 109 126<-195.34 111>
+HStem: -250 36<68 116.572 269.427 316>
+VStem: 129 126<-195.34 111>
 LayerCount: 2
 Fore
 SplineSet
-48 -250 m 1
- 48 -214 l 1
- 71 -214 88 -208 97 -196 c 1
- 105 -182 109 -163 109 -139 c 2
- 109 111 l 1
- 27 -18 l 1
- 0 -5 l 1
- 107 250 l 1
- 235 250 l 1
- 235 -144 l 2
- 235 -168 240 -186 249 -197 c 0
- 258 -208 274 -214 296 -214 c 1
- 296 -250 l 1
- 48 -250 l 1
+68 -250 m 1
+ 68 -214 l 1
+ 91 -214 108 -208 117 -196 c 1
+ 125 -182 129 -163 129 -139 c 2
+ 129 111 l 1
+ 47 -18 l 1
+ 20 -5 l 1
+ 127 250 l 1
+ 255 250 l 1
+ 255 -144 l 2
+ 255 -168 260 -186 269 -197 c 0
+ 278 -208 294 -214 316 -214 c 1
+ 316 -250 l 1
+ 68 -250 l 1
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE082
 Encoding: 57474 57474 3
-Width: 402
+Width: 442
 VWidth: 2048
 Flags: W
-HStem: -251 7<209.681 219> 209 42<108.298 243.162>
-VStem: 3 36<-250 -221> 14 155<49.7207 122.67> 271 121<43.2784 178.92> 367 35<-128.151 -83>
+HStem: -251 7<229.681 239> 209 42<128.298 263.162>
+VStem: 23 36<-250 -220> 34 155<49.7207 122.67> 291 121<43.2784 178.92> 387 35<-128.151 -83>
 LayerCount: 2
 Fore
 SplineSet
-104 -185 m 1xc4
- 86 -185 49 -199 39 -250 c 1
- 3 -250 l 1xe4
- 0 -221 l 1
- 0 -196 6 -175 18 -157 c 1
- 29 -138 40 -127 57 -114 c 1
- 178 -32 l 1
- 215 -3 l 2
- 230 8 242 26 253 51 c 1
- 265 75 271 98 271 121 c 0
- 271 161 252 209 177 209 c 0
- 152 209 145 209 127 201 c 1
- 113 196 104 189 101 179 c 1
- 104 170 108 164 111 161 c 2
- 135 144 l 1
- 147 137 152 133 162 123 c 1
- 167 116 169 107 169 96 c 0
- 169 84 169 39 90 22 c 1
- 60 22 14 48 14 116 c 0
- 14 182 95 251 211 251 c 0
- 283 251 392 219 392 101 c 0xd8
- 392 48 360 6 279 -32 c 1
- 188 -73 l 2
- 162 -84 143 -96 131 -110 c 1
- 180 -103 l 1
- 264 -103 295 -144 328 -144 c 0
- 348 -144 361 -124 367 -83 c 1
- 402 -83 l 1
- 402 -235 334 -251 288 -251 c 0
- 271 -251 223 -251 209 -244 c 6
- 219 -244 l 1
- 191 -227 l 1
- 142 -190 122 -187 104 -185 c 1xc4
+124 -185 m 1xc4
+ 106 -185 69 -199 59 -250 c 1
+ 23 -250 l 1xe4
+ 20 -220 l 1
+ 20 -195 26 -175 38 -157 c 1
+ 49 -138 60 -127 77 -114 c 1
+ 198 -32 l 1
+ 235 -3 l 2
+ 250 8 262 26 273 51 c 1
+ 285 75 291 98 291 121 c 0
+ 291 161 272 209 197 209 c 0
+ 172 209 165 209 147 201 c 1
+ 133 196 124 189 121 179 c 1
+ 124 170 128 164 131 161 c 2
+ 155 144 l 1
+ 167 137 172 133 182 123 c 1
+ 187 116 189 107 189 96 c 0
+ 189 84 189 39 110 22 c 1
+ 80 22 34 48 34 116 c 0
+ 34 182 115 251 231 251 c 0
+ 303 251 412 219 412 101 c 0xd8
+ 412 48 380 6 299 -32 c 1
+ 208 -73 l 2
+ 182 -84 163 -96 151 -110 c 1
+ 200 -103 l 1
+ 284 -103 315 -144 348 -144 c 0
+ 368 -144 381 -124 387 -83 c 1
+ 422 -83 l 1
+ 422 -235 354 -251 308 -251 c 0
+ 291 -251 243 -251 229 -244 c 2
+ 239 -244 l 1
+ 211 -227 l 1
+ 162 -190 142 -187 124 -185 c 1xc4
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE083
 Encoding: 57475 57475 4
-Width: 383
+Width: 412
 VWidth: 2048
 Flags: W
-HStem: -252 39<122.975 218.633> -10 36<113 196.898> 212 38<108.453 211.772>
-VStem: 0 146<-176.289 -81.5563> 10 140<77.7556 171.038> 244 121<61.3314 184.787> 251 121<-174.797 -54.7035>
+HStem: -252 39<142.975 238.633> -10 36<133 216.898> 212 38<128.453 231.772>
+VStem: 20 146<-176.289 -81.5563> 30 140<77.7556 171.038> 264 121<61.3314 184.787> 271 121<-174.797 -54.7035>
 LayerCount: 2
 Fore
 SplineSet
-188 250 m 0xec
- 285 250 365 198 365 134 c 0xec
- 365 65 325 23 247 9 c 1
- 303 4 372 -35 372 -107 c 0
- 372 -138 362 -164 341 -185 c 1
- 322 -206 296 -223 263 -234 c 1
- 213 -245 l 2
- 198 -248 177 -252 158 -252 c 0
- 108 -252 72 -236 45 -214 c 1
- 29 -204 22 -196 11 -180 c 1
- 4 -167 0 -155 0 -142 c 0
- 0 -99 27 -59 68 -59 c 1
- 71 -61 l 1
- 132 -61 146 -103 146 -131 c 0
- 146 -150 122 -173 120 -188 c 1
- 127 -205 140 -213 157 -213 c 0
- 201 -213 251 -184 251 -135 c 0xf2
- 251 -60 217 -10 113 -10 c 1
- 113 26 l 1
- 197 26 244 48 244 124 c 0
- 244 178 207 212 157 212 c 256
- 131 212 114 205 106 190 c 1
- 121 168 150 174 150 120 c 0
- 150 83 113 58 79 58 c 0
- 57 58 10 73 10 134 c 0
- 10 213 111 250 188 250 c 0xec
+208 250 m 0xec
+ 305 250 385 198 385 134 c 0xec
+ 385 65 345 23 267 9 c 1
+ 323 4 392 -35 392 -107 c 0
+ 392 -138 382 -164 361 -185 c 1
+ 342 -206 316 -223 283 -234 c 1
+ 233 -245 l 2
+ 218 -248 197 -252 178 -252 c 0
+ 128 -252 92 -236 65 -214 c 1
+ 49 -204 42 -196 31 -180 c 1
+ 24 -167 20 -155 20 -142 c 0
+ 20 -99 47 -59 88 -59 c 1
+ 91 -61 l 1
+ 152 -61 166 -103 166 -131 c 0
+ 166 -150 142 -173 140 -188 c 1
+ 147 -205 160 -213 177 -213 c 0
+ 221 -213 271 -184 271 -135 c 0xf2
+ 271 -60 237 -10 133 -10 c 1
+ 133 26 l 1
+ 217 26 264 48 264 124 c 0
+ 264 178 227 212 177 212 c 256
+ 151 212 134 205 126 190 c 1
+ 141 168 170 174 170 120 c 0
+ 170 83 133 58 99 58 c 0
+ 77 58 30 73 30 134 c 0
+ 30 213 131 250 208 250 c 0xec
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE084
 Encoding: 57476 57476 5
-Width: 387
+Width: 427
 VWidth: 2048
 Flags: W
-HStem: -250 34<143 187.338 344.25 387> -117 39<41 203 330 387>
-VStem: 203 127<-204.298 -117 -78 24>
+HStem: -250 34<163 207.338 364.25 407> -117 39<61 223 350 407>
+VStem: 223 127<-204.298 -117 -78 24>
 LayerCount: 2
 Fore
 SplineSet
-0 -78 m 1
- 84 19 114 102 134 251 c 1
- 304 251 l 1
- 291 219 222 119 205 100 c 2
- 121 3 l 1
- 88 -33 62 -60 41 -78 c 1
- 203 -78 l 1
- 203 24 l 1
- 330 147 l 1
- 330 -78 l 1
- 387 -78 l 1
- 387 -117 l 1
- 330 -117 l 1
- 330 -151 l 2
- 330 -194 349 -216 387 -216 c 1
- 387 -250 l 1
- 143 -250 l 1
- 143 -214 l 1
- 191 -214 203 -188 203 -144 c 2
- 203 -117 l 1
- 0 -117 l 1
- 0 -78 l 1
+20 -78 m 1
+ 104 19 134 102 154 251 c 1
+ 324 251 l 1
+ 311 219 242 119 225 100 c 2
+ 141 3 l 1
+ 108 -33 82 -60 61 -78 c 1
+ 223 -78 l 1
+ 223 24 l 1
+ 350 147 l 1
+ 350 -78 l 1
+ 407 -78 l 1
+ 407 -117 l 1
+ 350 -117 l 1
+ 350 -151 l 2
+ 350 -194 369 -216 407 -216 c 1
+ 407 -250 l 1
+ 163 -250 l 1
+ 163 -214 l 1
+ 211 -214 223 -188 223 -144 c 2
+ 223 -117 l 1
+ 20 -117 l 1
+ 20 -78 l 1
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE085
 Encoding: 57477 57477 6
-Width: 354
+Width: 397
 VWidth: 2048
 Flags: W
-HStem: -250 34<112.67 194.273> 38 37<88.3245 189.874> 135 97<56.8394 252.955>
-VStem: 0 110<-196.674 -108.5> 17 34<36 147> 238 119<-160.062 -8.82164>
+HStem: -250 34<132.67 214.273> 38 37<108.324 209.874> 135 97<76.8394 272.955>
+VStem: 20 110<-196.674 -108.5> 37 34<36 147> 258 119<-160.062 -8.82164>
 LayerCount: 2
 Fore
 SplineSet
-141 38 m 0xf4
- 127 38 85 33 49 -13 c 1
- 17 -13 l 1
- 22 250 l 1
- 77 239 130 232 180 232 c 0
- 220 232 265 238 314 249 c 1
- 306 197 275 135 155 135 c 1
- 105 137 l 2
- 86 139 74 141 56 147 c 1
- 51 36 l 1xec
- 89 62 132 75 180 75 c 0
- 274 75 357 11 357 -84 c 0
- 357 -184 259 -250 146 -250 c 0
- 58 -250 0 -197 0 -135 c 0
- 0 -82 39 -52 75 -52 c 0
- 112 -52 144 -84 144 -124 c 0
- 144 -128 143 -134 140 -142 c 1
- 113 -179 l 2
- 111 -182 110 -187 110 -193 c 0
- 110 -208 122 -216 146 -216 c 0
- 220 -216 238 -139 238 -84 c 0
- 238 -29 203 38 141 38 c 0xf4
+161 38 m 0xf4
+ 147 38 105 33 69 -13 c 1
+ 37 -13 l 1
+ 42 250 l 1
+ 97 239 150 232 200 232 c 0
+ 240 232 285 238 334 249 c 1
+ 326 197 295 135 175 135 c 1
+ 125 137 l 2
+ 106 139 94 141 76 147 c 1
+ 71 36 l 1xec
+ 109 62 152 75 200 75 c 0
+ 294 75 377 11 377 -84 c 0
+ 377 -184 279 -250 166 -250 c 0
+ 78 -250 20 -197 20 -135 c 0
+ 20 -82 59 -52 95 -52 c 0
+ 132 -52 164 -84 164 -124 c 0
+ 164 -128 163 -134 160 -142 c 1
+ 133 -179 l 2
+ 131 -182 130 -187 130 -193 c 0
+ 130 -208 142 -216 166 -216 c 0
+ 240 -216 258 -139 258 -84 c 0
+ 258 -29 223 38 161 38 c 0xf4
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE086
 Encoding: 57478 57478 7
-Width: 394
+Width: 422
 VWidth: 2048
 Flags: W
-HStem: -250 36<162.136 235.658> 1 29<166.839 282> 214 36<166.867 234.957>
-VStem: 0 132<-114.639 52.7971> 0 120<-6 111.594> 235 125<113.152 198.256> 264 118<-165.523 -27.8821>
+HStem: -250 36<182.136 255.658> 1 29<186.839 302> 214 36<186.867 254.957>
+VStem: 20 132<-114.639 52.7971> 20 120<-6 111.594> 255 125<113.152 198.256> 284 118<-165.523 -27.8821>
 LayerCount: 2
 Fore
 SplineSet
-264 -91 m 0xf2
- 264 -54 236 1 197 1 c 0
- 162 1 132 -53 132 -110 c 0
- 132 -162 154 -214 200 -214 c 0
- 247 -214 264 -146 264 -91 c 0xf2
-210 214 m 0
- 174 214 120 181 120 30 c 1
- 122 -6 l 1
- 162 18 203 30 242 30 c 0
- 322 30 382 -18 382 -91 c 0xea
- 382 -190 283 -250 200 -250 c 4
- 40 -250 0 -77 0 -6 c 256
- 0 15 2 37 7 65 c 1
- 17 100 l 1
- 43 185 90 215 115 226 c 0
- 156 245 189 250 218 250 c 0
- 311 250 360 187 360 145 c 0
- 360 87 308 73 287 73 c 0
- 254 73 228 97 222 108 c 0
- 219 113 216 122 215 133 c 1
- 226 163 l 2
- 232 178 235 190 235 198 c 0xf4
- 235 209 226 214 210 214 c 0
+284 -91 m 0xf2
+ 284 -54 256 1 217 1 c 0
+ 182 1 152 -53 152 -110 c 0
+ 152 -162 174 -214 220 -214 c 0
+ 267 -214 284 -146 284 -91 c 0xf2
+230 214 m 0
+ 194 214 140 181 140 30 c 1
+ 142 -6 l 1
+ 182 18 223 30 262 30 c 0
+ 342 30 402 -18 402 -91 c 0xea
+ 402 -190 303 -250 220 -250 c 0
+ 60 -250 20 -77 20 -6 c 256
+ 20 15 22 37 27 65 c 1
+ 37 100 l 1
+ 63 185 110 215 135 226 c 0
+ 176 245 209 250 238 250 c 0
+ 331 250 380 187 380 145 c 0
+ 380 87 328 73 307 73 c 0
+ 274 73 248 97 242 108 c 0
+ 239 113 236 122 235 133 c 1
+ 246 163 l 2
+ 252 178 255 190 255 198 c 0xf4
+ 255 209 246 214 230 214 c 0
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE087
 Encoding: 57479 57479 8
-Width: 404
+Width: 444
 VWidth: 2048
 Flags: W
-VStem: 0 37<92 125.371 217.773 247> 78 174<-250 -149.659> 366 38<205.161 250>
+VStem: 20 37<92 125.371 217.773 247> 98 174<-250 -149.659> 386 38<205.161 250>
 LayerCount: 2
 Fore
 SplineSet
-330 125 m 1
- 319 116 277 79 235 79 c 1
- 217 81 202 87 191 96 c 1
- 174 115 158 130 143 141 c 1
- 130 152 116 158 101 158 c 0
- 78 158 56 136 37 92 c 1
- 0 92 l 1
- 0 247 l 1
- 37 247 l 1
- 41 229 48 219 58 217 c 1
- 66 218 73 220 80 225 c 1
- 90 230 l 1
- 104 240 l 2
- 107 242 118 246 125 247 c 2
- 136 249 l 2
- 144 250 169 250 178 250 c 0
- 217 250 235 243 268 207 c 1
- 279 192 294 184 312 181 c 1
- 339 184 357 210 366 251 c 1
- 404 250 l 1
- 403 241 393 162 375 126 c 1
- 370 113 363 98 354 80 c 2
- 321 20 l 1
- 266 -72 252 -142 252 -250 c 1
- 78 -250 l 5
- 78 -205 89 -164 111 -128 c 1
- 134 -93 170 -54 217 -11 c 1
- 316 73 330 85 330 125 c 1
+350 125 m 1
+ 339 116 297 79 255 79 c 1
+ 237 81 222 87 211 96 c 1
+ 194 115 178 130 163 141 c 1
+ 150 152 136 158 121 158 c 0
+ 98 158 76 136 57 92 c 1
+ 20 92 l 1
+ 20 247 l 1
+ 57 247 l 1
+ 61 229 68 219 78 217 c 1
+ 86 218 93 220 100 225 c 1
+ 110 230 l 1
+ 124 240 l 2
+ 127 242 138 246 145 247 c 2
+ 156 249 l 2
+ 164 250 189 250 198 250 c 0
+ 237 250 255 243 288 207 c 1
+ 299 192 314 184 332 181 c 1
+ 359 184 377 210 386 251 c 1
+ 424 250 l 1
+ 423 241 413 162 395 126 c 1
+ 390 113 383 98 374 80 c 2
+ 341 20 l 1
+ 286 -72 272 -142 272 -250 c 1
+ 98 -250 l 1
+ 98 -205 109 -164 131 -128 c 1
+ 154 -93 190 -54 237 -11 c 1
+ 336 73 350 85 350 125 c 1
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE088
 Encoding: 57480 57480 9
-Width: 386
+Width: 404
 VWidth: 2048
 Flags: W
-HStem: -250 36<120.229 242.778> 211 38<117.027 254.911>
-VStem: 10 91<86.3662 180.442> 275 99<-164.859 -73> 291 69<77.0203 181.794>
+HStem: -250 36<130.229 252.778> 211 38<127.027 264.911>
+VStem: 20 91<86.3662 180.442> 285 99<-164.859 -73> 301 69<77.0203 181.794>
 LayerCount: 2
 Fore
 SplineSet
-185 -214 m 0xf0
- 261 -214 273 -156 275 -146 c 1
- 275 -112 240 -86 218 -73 c 2
- 166 -44 l 1
- 145 -34 134 -27 132 -24 c 1
- 93 -57 74 -78 70 -116 c 1
- 75 -139 93 -214 185 -214 c 0xf0
-291 135 m 0xe8
- 291 196 219 211 178 211 c 0
- 138 211 101 194 101 160 c 1
- 104 139 116 122 127 110 c 1
- 144 95 160 84 175 76 c 1
- 240 48 l 1
- 274 75 291 104 291 135 c 0xe8
-166 -250 m 4
- 109 -250 0 -224 -0 -118 c 0
- 0 -71 30 -32 89 -2 c 1
- 56 13 10 58 10 117 c 0
- 10 196 95 249 188 249 c 2
- 206 249 l 2
- 211 249 227 250 234 248 c 1
- 259 248 360 218 360 138 c 0
- 360 101 337 62 291 22 c 1xe8
- 334 -3 374 -49 374 -97 c 0xf0
- 374 -198 256 -250 166 -250 c 4
+195 -214 m 0xf0
+ 271 -214 283 -156 285 -146 c 1
+ 285 -112 250 -86 228 -73 c 2
+ 176 -44 l 1
+ 155 -34 144 -27 142 -24 c 1
+ 103 -57 84 -78 80 -116 c 1
+ 85 -139 103 -214 195 -214 c 0xf0
+301 135 m 0xe8
+ 301 196 229 211 188 211 c 0
+ 148 211 111 194 111 160 c 1
+ 114 139 126 122 137 110 c 1
+ 154 95 170 84 185 76 c 1
+ 250 48 l 1
+ 284 75 301 104 301 135 c 0xe8
+176 -250 m 0
+ 119 -250 10 -224 10 -118 c 0
+ 10 -71 40 -32 99 -2 c 1
+ 66 13 20 58 20 117 c 0
+ 20 196 105 249 198 249 c 2
+ 216 249 l 2
+ 221 249 237 250 244 248 c 1
+ 269 248 370 218 370 138 c 0
+ 370 101 347 62 301 22 c 1xe8
+ 344 -3 384 -49 384 -97 c 0xf0
+ 384 -198 266 -250 176 -250 c 0
 EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: uniE089
 Encoding: 57481 57481 10
-Width: 397
+Width: 425
 VWidth: 2048
 Flags: W
-HStem: -250 34<147.045 214.758> -33 36<126.5 220.805> 213 37<151.031 218.001>
-VStem: -0 119<28.5851 166.265> 23 143<-195.459 -94.4614> 249 136<-43.956 126.401> 260 125<-100.912 3>
+HStem: -250 34<167.045 234.758> -33 36<146.5 240.805> 213 37<171.031 238.001>
+VStem: 20 119<28.5851 166.265> 43 143<-195.459 -94.4614> 269 136<-43.956 126.401> 280 125<-100.912 3>
 LayerCount: 2
 Fore
 SplineSet
-119 107 m 0xf4
- 119 56 141 3 185 3 c 0
- 223 3 249 51 249 113 c 0
- 249 163 218 213 185 213 c 0
- 145 213 119 157 119 107 c 0xf4
-94 -74 m 0
- 134 -74 166 -101 166 -139 c 0xec
- 166 -147 163 -158 157 -173 c 2
- 150 -189 l 1
- 145 -204 l 1
- 147 -212 157 -216 176 -216 c 0
- 232 -216 260 -143 260 3 c 1
- 228 -21 189 -33 141 -33 c 0
- 112 -33 85 -27 62 -13 c 1
- 11 13 5 65 -0 95 c 1xf2
- 0 159 56 250 188 250 c 0
- 346 250 385 99 385 13 c 0
- 385 -132 293 -250 178 -250 c 4
- 69 -250 23 -182 23 -149 c 0xec
- 23 -103 56 -74 94 -74 c 0
+139 107 m 0xf4
+ 139 56 161 3 205 3 c 0
+ 243 3 269 51 269 113 c 0
+ 269 163 238 213 205 213 c 0
+ 165 213 139 157 139 107 c 0xf4
+114 -74 m 0
+ 154 -74 186 -101 186 -139 c 0xec
+ 186 -147 183 -158 177 -173 c 2
+ 170 -189 l 1
+ 165 -204 l 1
+ 167 -212 177 -216 196 -216 c 0
+ 252 -216 280 -143 280 3 c 1
+ 248 -21 209 -33 161 -33 c 0
+ 132 -33 105 -27 82 -13 c 1
+ 31 13 25 65 20 95 c 1xf2
+ 20 159 76 250 208 250 c 0
+ 366 250 405 99 405 13 c 0
+ 405 -132 313 -250 198 -250 c 0
+ 89 -250 43 -182 43 -149 c 0xec
+ 43 -103 76 -74 114 -74 c 0
 EndSplineSet
 Validated: 1
 EndChar
