@@ -3,9 +3,9 @@ FontName: Leipzig
 FullName: Leipzig
 FamilyName: Leipzig
 Weight: Regular
-Copyright: Created by Etienne Darbellay, Jean-Francois Marti and Laurent Pugin. \nThis font is licensed under the SIL Open Font License \\(http://scripts.sil.org/OFL\\).\nVersion 5.2.55
-FontLog: "FONTLOG for the Leipzig font+AAoAPQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0ACgAK-This file provides detailed information on the Leipzig Font Software. This information should be distributed along with the Leipzig font and any derivative works.+AAoACgAA-Change log+AAoA-----------+AAoACgAA-2014-03-21: Created.+AAoA-Version 5.2.0 - adding glyphs (dynamics, ornaments, mensural note heads, etc)+AAoA-Version 5.2.1 - adding repeats+AAoA-Version 5.2.2 - fixing size of some glpyhs+AAoA-Version 5.2.3 - adding mensural clefs+AAoA-Version 5.2.4 - adding more dynam glyphs+AAoA-Version 5.2.5 - adding more dynam glyphs+AAoA-Version 5.2.6 - adding some octaves glyphs+AAoA-Version 5.2.7 - adjusting pedal glyphs+AAoA-Version 5.2.8 - adding perc clef+AAoA-Version 5.2.9 - adding two mensural clefs+AAoA-Version 5.2.10 - adding articulations and two fermatas and bow directions+AAoA-Version 5.2.11 - adding harmonic and reviewing bows+AAoA-Version 5.2.12 - reviewing artic width+AAoA-Version 5.2.13 - adding (very)short/long fermata and breath comma+AAoA-Version 5.2.14 - adding mensural stems+AAoA-Version 5.2.15 - changing ascent/descent to 750/250+AAoA-Version 5.2.16 - adding mensural rests+AAoA-Version 5.2.17 - correcting mensural rests position+AAoA-Version 5.2.18 - adding accid square brackets and reviewing bow directions+AAoA-Version 5.2.19 - adding some quartertone accidentals (Gould and Stein-Zimmermann)+AAoA-Version 5.2.20 - adding some anchor points (accidentals)+AAoA-Version 5.2.21 - adding stem flags (16th to 256th)+AAoA-Version 5.2.22 - fixing anchor point names+AAoA-Version 5.2.23 - adding anchor points to all accidentals+AAoA-Version 5.2.24 - changing 8th flags+AAoA-Version 5.2.25 - reviewing mensural clefs+AAoA-Version 5.2.26 - revising position of some rests+AAoA-Version 5.2.27 - adding some anchor points to note heads+AAoA-Version 5.2.28 - correcting anchor points+AAoA-Version 5.2.29 - adding plus time signature symbols+AAoA-Version 5.2.30 - adding some combining strokes for trills+AAoA-Version 5.2.31 - adding some arpegio glyphs (Mulit-segment lines)+AAoA-Version 5.2.32 - adding pedal sostenuto glyph+AAoA-Version 5.2.33 - adding mensural prolations+AAoA-Version 5.2.34 - adding some tablature glyphs+AAoA-Version 5.2.35 - adding 512th and 1024th flags+AAoA-Version 5.2.36 - adding 512th and 1024th rests+AAoA-Version 5.2.37 - adding some more tablature glyphs+AAoA-Version 5.2.38 - validating font+AAoA-Version 5.2.39 - adjusting some more tablature glyphs+AAoA-Version 5.2.40 - adding brace glyph+AAoA-Version 5.2.41 - adding sprechgesang glyph+AAoA-Version 5.2.42 - adding some notehead glyphs+AAoA-Version 5.2.43 - adding buzz roll glyph+AAoA-Version 5.2.44 - adding anchor points to noteheads+AAoA-Version 5.2.45 - adding precomposed ornaments+AAoA-Version 5.2.46 - adding single P and S for piano pedal+AAoA-Version 5.2.47 - adding glyphs for longer rests+AAoA-Version 5.2.48 - adding baroque ornament+AAoA-Version 5.2.49 - adding arabic accidentals+AAoA-Version 5.2.50 - adding more clefs, notehead parentheses and slash noteheads+AAoA-Version 5.2.51 - adding old quarter rests and fingering numerals+AAoA-Version 5.2.52 - adding old accidentals and completing the octaves range+AAoA-Version 5.2.53 - fix arpeggio arrow down direction+AAoA-Version 5.2.54 - fix time signature margins+AAoA-Version 5.2.55 - complete Petrucci C clefs range"
-Version: 5.2.55
+Copyright: Created by Etienne Darbellay, Jean-Francois Marti and Laurent Pugin. \nThis font is licensed under the SIL Open Font License \\(http://scripts.sil.org/OFL\\).\nVersion 5.2.56
+FontLog: "FONTLOG for the Leipzig font+AAoAPQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0APQA9AD0ACgAK-This file provides detailed information on the Leipzig Font Software. This information should be distributed along with the Leipzig font and any derivative works.+AAoACgAA-Change log+AAoA-----------+AAoACgAA-2014-03-21: Created.+AAoA-Version 5.2.0 - adding glyphs (dynamics, ornaments, mensural note heads, etc)+AAoA-Version 5.2.1 - adding repeats+AAoA-Version 5.2.2 - fixing size of some glpyhs+AAoA-Version 5.2.3 - adding mensural clefs+AAoA-Version 5.2.4 - adding more dynam glyphs+AAoA-Version 5.2.5 - adding more dynam glyphs+AAoA-Version 5.2.6 - adding some octaves glyphs+AAoA-Version 5.2.7 - adjusting pedal glyphs+AAoA-Version 5.2.8 - adding perc clef+AAoA-Version 5.2.9 - adding two mensural clefs+AAoA-Version 5.2.10 - adding articulations and two fermatas and bow directions+AAoA-Version 5.2.11 - adding harmonic and reviewing bows+AAoA-Version 5.2.12 - reviewing artic width+AAoA-Version 5.2.13 - adding (very)short/long fermata and breath comma+AAoA-Version 5.2.14 - adding mensural stems+AAoA-Version 5.2.15 - changing ascent/descent to 750/250+AAoA-Version 5.2.16 - adding mensural rests+AAoA-Version 5.2.17 - correcting mensural rests position+AAoA-Version 5.2.18 - adding accid square brackets and reviewing bow directions+AAoA-Version 5.2.19 - adding some quartertone accidentals (Gould and Stein-Zimmermann)+AAoA-Version 5.2.20 - adding some anchor points (accidentals)+AAoA-Version 5.2.21 - adding stem flags (16th to 256th)+AAoA-Version 5.2.22 - fixing anchor point names+AAoA-Version 5.2.23 - adding anchor points to all accidentals+AAoA-Version 5.2.24 - changing 8th flags+AAoA-Version 5.2.25 - reviewing mensural clefs+AAoA-Version 5.2.26 - revising position of some rests+AAoA-Version 5.2.27 - adding some anchor points to note heads+AAoA-Version 5.2.28 - correcting anchor points+AAoA-Version 5.2.29 - adding plus time signature symbols+AAoA-Version 5.2.30 - adding some combining strokes for trills+AAoA-Version 5.2.31 - adding some arpegio glyphs (Mulit-segment lines)+AAoA-Version 5.2.32 - adding pedal sostenuto glyph+AAoA-Version 5.2.33 - adding mensural prolations+AAoA-Version 5.2.34 - adding some tablature glyphs+AAoA-Version 5.2.35 - adding 512th and 1024th flags+AAoA-Version 5.2.36 - adding 512th and 1024th rests+AAoA-Version 5.2.37 - adding some more tablature glyphs+AAoA-Version 5.2.38 - validating font+AAoA-Version 5.2.39 - adjusting some more tablature glyphs+AAoA-Version 5.2.40 - adding brace glyph+AAoA-Version 5.2.41 - adding sprechgesang glyph+AAoA-Version 5.2.42 - adding some notehead glyphs+AAoA-Version 5.2.43 - adding buzz roll glyph+AAoA-Version 5.2.44 - adding anchor points to noteheads+AAoA-Version 5.2.45 - adding precomposed ornaments+AAoA-Version 5.2.46 - adding single P and S for piano pedal+AAoA-Version 5.2.47 - adding glyphs for longer rests+AAoA-Version 5.2.48 - adding baroque ornament+AAoA-Version 5.2.49 - adding arabic accidentals+AAoA-Version 5.2.50 - adding more clefs, notehead parentheses and slash noteheads+AAoA-Version 5.2.51 - adding old quarter rests and fingering numerals+AAoA-Version 5.2.52 - adding old accidentals and completing the octaves range+AAoA-Version 5.2.53 - fix arpeggio arrow down direction+AAoA-Version 5.2.54 - fix time signature margins+AAoA-Version 5.2.55 - complete Petrucci C clefs range+AAoA-Version 5.2.56 - add glyphs to Time signatures range"
+Version: 5.2.56
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1395388130
-ModificationTime: 1626433968
+ModificationTime: 1627049340
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,12 +50,12 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 59642 11 4
+WinInfo: 57475 11 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "stemUpSE"""  "stemDownNW"""  "cutOutNW"""  "cutOutSW"""  "cutOutSE"""  "cutOutNE""" 
-BeginChars: 1114115 402
+BeginChars: 1114115 406
 
 StartChar: uniE0A3
 Encoding: 57507 57507 0
@@ -2527,7 +2527,7 @@ EndChar
 
 StartChar: uniE08B
 Encoding: 57483 57483 42
-Width: 2048
+Width: 417
 VWidth: 2048
 Flags: W
 HStem: -251 32<218.69 299.305> 221 25<218.561 307.284>
@@ -2535,44 +2535,44 @@ VStem: 0 125<-111.104 108.094> 188 30<-319 -251 -202 200 246 318> 344 71<92 182>
 LayerCount: 2
 Fore
 SplineSet
-188 200 m 5xf0
- 146 178 125 131 125 59 c 6
- 125 -60 l 6
- 125 -99 132 -130 144 -154 c 4
- 156 -178 170 -194 188 -202 c 5
- 188 200 l 5xf0
-0 -0 m 4
- 0 127 80 220 186 246 c 5
- 186 318 l 5
- 218 318 l 5
- 212 246 l 5
- 245 246 283 246 313 235 c 4
- 367 215 415 170 415 100 c 4
- 415 84 411 70 402 57 c 4
- 393 44 382 33 370 28 c 6
- 350 20 l 5
- 327 17 l 5
- 305 19 286 25 272 38 c 4
- 258 51 251 69 246 89 c 5
- 246 127 291 169 325 169 c 4
- 337 169 344 172 344 179 c 4xf8
- 344 185 338 191 329 197 c 4
- 310 210 282 221 250 221 c 4
- 240 221 230 220 218 216 c 5
- 218 -215 l 5
- 233 -218 230 -219 248 -219 c 4
- 305 -219 348 -168 369 -126 c 5
- 386 -87 l 5
- 389 -74 391 -62 391 -52 c 5
- 417 -52 l 5xf4
- 411 -122 389 -173 351 -204 c 4
- 313 -235 269 -251 218 -251 c 5
- 218 -319 l 5
- 188 -319 l 5
- 188 -247 l 5
- 131 -237 66 -193 35 -138 c 4
- 28 -126 22 -112 16 -96 c 4
- 5 -67 0 -35 0 -0 c 4
+188 200 m 1xf0
+ 146 178 125 131 125 59 c 2
+ 125 -60 l 2
+ 125 -99 132 -130 144 -154 c 0
+ 156 -178 170 -194 188 -202 c 1
+ 188 200 l 1xf0
+0 -0 m 0
+ 0 127 80 220 186 246 c 1
+ 186 318 l 1
+ 218 318 l 1
+ 212 246 l 1
+ 245 246 283 246 313 235 c 0
+ 367 215 415 170 415 100 c 0
+ 415 84 411 70 402 57 c 0
+ 393 44 382 33 370 28 c 2
+ 350 20 l 1
+ 327 17 l 1
+ 305 19 286 25 272 38 c 0
+ 258 51 251 69 246 89 c 1
+ 246 127 291 169 325 169 c 0
+ 337 169 344 172 344 179 c 0xf8
+ 344 185 338 191 329 197 c 0
+ 310 210 282 221 250 221 c 0
+ 240 221 230 220 218 216 c 1
+ 218 -215 l 1
+ 233 -218 230 -219 248 -219 c 0
+ 305 -219 348 -168 369 -126 c 1
+ 386 -87 l 1
+ 389 -74 391 -62 391 -52 c 1
+ 417 -52 l 1xf4
+ 411 -122 389 -173 351 -204 c 0
+ 313 -235 269 -251 218 -251 c 1
+ 218 -319 l 1
+ 188 -319 l 1
+ 188 -247 l 1
+ 131 -237 66 -193 35 -138 c 0
+ 28 -126 22 -112 16 -96 c 0
+ 5 -67 0 -35 0 -0 c 0
 EndSplineSet
 Validated: 1
 EndChar
@@ -12756,26 +12756,25 @@ EndChar
 StartChar: uniE08C
 Encoding: 57484 57484 229
 Width: 342
-VWidth: 2048
 Flags: W
-HStem: -38 77<0 133 208 341>
-VStem: 133 75<-171 -38 39 171>
+HStem: -37 74<0 134 0 134 208 342>
+VStem: 134 74<-171 -37 -171 -37 37 171>
 LayerCount: 2
 Fore
 SplineSet
-341 -38 m 1
- 208 -38 l 1
+342 -37 m 1
+ 208 -37 l 1
  208 -171 l 1
- 133 -171 l 1
- 133 -38 l 1
- 0 -38 l 1
- 0 39 l 1
- 133 39 l 1
- 133 171 l 1
+ 134 -171 l 1
+ 134 -37 l 1
+ 0 -37 l 1
+ 0 37 l 1
+ 134 37 l 1
+ 134 171 l 1
  208 171 l 1
- 208 39 l 1
- 341 39 l 1
- 341 -38 l 1
+ 208 37 l 1
+ 342 37 l 1
+ 342 -37 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -21519,6 +21518,86 @@ SplineSet
  35 -647 26 -654 18 -654 c 0
  11 -654 4 -649 4 -637 c 1
  2 -206 l 2xd8
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE08E
+Encoding: 57486 57486 402
+Width: 186
+Flags: W
+VStem: 0 186
+LayerCount: 2
+Fore
+SplineSet
+49 -243 m 1
+ 0 -218 l 1
+ 137 243 l 1
+ 186 218 l 1
+ 49 -243 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE08F
+Encoding: 57487 57487 403
+Width: 342
+Flags: W
+HStem: -120 74<0 342 0 342> 46 74<0 342 0 342>
+LayerCount: 2
+Fore
+SplineSet
+0 -120 m 1
+ 0 -46 l 1
+ 342 -46 l 1
+ 342 -120 l 1
+ 0 -120 l 1
+0 46 m 1
+ 0 120 l 1
+ 342 120 l 1
+ 342 46 l 1
+ 0 46 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE090
+Encoding: 57488 57488 404
+Width: 342
+Flags: W
+HStem: -37 74<0 342 0 342>
+LayerCount: 2
+Fore
+SplineSet
+0 -37 m 1
+ 0 37 l 1
+ 342 37 l 1
+ 342 -37 l 1
+ 0 -37 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE091
+Encoding: 57489 57489 405
+Width: 334
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+334 115 m 1
+ 219 0 l 1
+ 334 -115 l 1
+ 282 -167 l 1
+ 167 -52 l 1
+ 52 -167 l 1
+ 0 -115 l 1
+ 115 0 l 1
+ 0 115 l 1
+ 52 167 l 1
+ 167 52 l 1
+ 282 167 l 1
+ 334 115 l 1
 EndSplineSet
 Validated: 1
 EndChar
