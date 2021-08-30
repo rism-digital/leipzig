@@ -62,3 +62,6 @@ Version 5.2.51 - adding old quarter rests and fingering numerals
 Version 5.2.52 - adding old accidentals and completing the octaves range
 Version 5.2.53 - fix arpeggio arrow down direction
 Version 5.2.54 - fix time signature margins
+Version 5.2.55 - complete Petrucci C clefs range
+Version 5.2.56 - add glyphs to Time signatures range
+Version 5.2.57 - add soft accents
