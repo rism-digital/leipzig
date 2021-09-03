@@ -65,3 +65,4 @@ Version 5.2.54 - fix time signature margins
 Version 5.2.55 - complete Petrucci C clefs range
 Version 5.2.56 - add glyphs to Time signatures range
 Version 5.2.57 - add soft accents
+Version 5.2.58 - fix arpeggio arrow width
