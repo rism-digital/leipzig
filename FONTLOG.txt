@@ -68,3 +68,4 @@ Version 5.2.57 - add soft accents
 Version 5.2.58 - fix arpeggio arrow width
 Version 5.2.59 - adding Henze fermatas
 Version 5.2.60 - reworked arpeggio glyphs and added glissando glyph
+Version 5.2.61 - add glyphs for muted brass
