@@ -70,3 +70,4 @@ Version 5.2.59 - adding Henze fermatas
 Version 5.2.60 - reworked arpeggio glyphs and added glissando glyph
 Version 5.2.61 - add glyphs for muted brass
 Version 5.2.62 - add double whole note glyphs
+Version 5.2.63 - add barlines, repeat dots, and square coda
