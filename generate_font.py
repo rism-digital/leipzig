@@ -5,7 +5,6 @@
 # generates FONTLOG.txt, OpenType font, and the font metadata JSON
 
 import json
-import os
 import sys
 
 import fontforge
@@ -56,8 +55,6 @@ try:
 except EnvironmentError:
     print("Can't open font file %s" % fontFileName)
     sys.exit(1)
-
-fontName = os.path.splitext(os.path.basename(fontFileName))[0]
 
 # generating OpenType font:
 print("Generating OpenType font")
@@ -140,6 +137,6 @@ metadata["glyphsWithAnchors"] = glyphsWithAnchors
 font.close()
 
 output = json.dumps(metadata, sort_keys=True, indent=4, separators=(',', ': '))
-jsonFileName = outDir + fontName.lower() + "_metadata.json"
+jsonFileName = outDir + font.fontname.lower() + "_metadata.json"
 with open(jsonFileName, "w") as outfile:
     outfile.write(output)
