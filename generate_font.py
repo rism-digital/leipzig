@@ -134,9 +134,10 @@ for glyph in font:
         undefCount += 1
 metadata["glyphBBoxes"] = glyphBBoxes
 metadata["glyphsWithAnchors"] = glyphsWithAnchors
-font.close()
 
 output = json.dumps(metadata, sort_keys=True, indent=4, separators=(',', ': '))
 jsonFileName = outDir + font.fontname.lower() + "_metadata.json"
 with open(jsonFileName, "w") as outfile:
     outfile.write(output)
+
+font.close()
