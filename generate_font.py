@@ -103,6 +103,7 @@ metadata["engravingDefaults"] = engravingDefaults
 
 with open('glyphnames.json') as smuflGlyphnamesFile:
     smuflGlyphnames = json.load(smuflGlyphnamesFile)
+    codepoint_to_name = { data['codepoint']: name for name, data in smuflGlyphnames.items() }
 
 glyphBBoxes = dict()
 glyphsWithAnchors = dict()
@@ -111,10 +112,11 @@ undefCount = 0
 for glyph in font:
     g = font[glyph]
 
-    if "uni" in glyph:
-        for smuflGlyphname in smuflGlyphnames.items():
-            if glyph.split("uni")[1] in list(smuflGlyphname[1].values())[0]:
-                g.glyphname = smuflGlyphname[0]
+    try:
+        g.glyphname = codepoint_to_name["U+" + hex(g.unicode)[2:].upper()]
+    except KeyError:
+        # glyph not in SMuFL range
+        continue
 
     if g.unicode != -1 and g.unicode > 31:
         count += 1
