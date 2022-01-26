@@ -2022,6 +2022,16 @@
                 0.0
             ]
         },
+        "luteDurationDoubleWhole": {
+            "bBoxNE": [
+                0.368,
+                3.164
+            ],
+            "bBoxSW": [
+                -0.328,
+                0.0
+            ]
+        },
         "luteDurationHalf": {
             "bBoxNE": [
                 1.616,
@@ -2044,11 +2054,11 @@
         },
         "luteDurationWhole": {
             "bBoxNE": [
-                0.368,
+                0.352,
                 3.164
             ],
             "bBoxSW": [
-                -0.328,
+                0.0,
                 0.0
             ]
         },
