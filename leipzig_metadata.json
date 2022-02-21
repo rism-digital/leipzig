@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.66",
+    "fontVersion": "5.2.67",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -50,6 +50,26 @@
             "bBoxSW": [
                 -0.012,
                 -3.0
+            ]
+        },
+        "accidentalArrowDown": {
+            "bBoxNE": [
+                0.592,
+                1.5
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.5
+            ]
+        },
+        "accidentalArrowUp": {
+            "bBoxNE": [
+                0.592,
+                1.5
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.5
             ]
         },
         "accidentalBakiyeFlat": {
@@ -126,6 +146,26 @@
             "bBoxNE": [
                 1.028,
                 0.48
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.48
+            ]
+        },
+        "accidentalFiveQuarterTonesFlatArrowDown": {
+            "bBoxNE": [
+                1.64,
+                1.876
+            ],
+            "bBoxSW": [
+                -0.168,
+                -1.5
+            ]
+        },
+        "accidentalFiveQuarterTonesSharpArrowUp": {
+            "bBoxNE": [
+                1.176,
+                1.4
             ],
             "bBoxSW": [
                 0.0,
@@ -244,12 +284,12 @@
         },
         "accidentalQuarterToneFlatNaturalArrowDown": {
             "bBoxNE": [
-                0.884,
+                0.888,
                 1.508
             ],
             "bBoxSW": [
                 0.0,
-                -1.94
+                -2.02
             ]
         },
         "accidentalQuarterToneFlatStein": {
@@ -264,21 +304,21 @@
         },
         "accidentalQuarterToneSharpArrowDown": {
             "bBoxNE": [
-                0.788,
-                1.528
+                0.872,
+                1.42
             ],
             "bBoxSW": [
-                -0.1,
-                -1.892
+                0.0,
+                -2.06
             ]
         },
         "accidentalQuarterToneSharpNaturalArrowUp": {
             "bBoxNE": [
                 0.708,
-                1.94
+                2.02
             ],
             "bBoxSW": [
-                -0.184,
+                -0.18,
                 -1.508
             ]
         },
@@ -315,11 +355,21 @@
         "accidentalThreeQuarterTonesFlatArrowDown": {
             "bBoxNE": [
                 0.88,
-                1.976
+                1.876
             ],
             "bBoxSW": [
-                -0.184,
-                -1.416
+                -0.168,
+                -1.5
+            ]
+        },
+        "accidentalThreeQuarterTonesFlatArrowUp": {
+            "bBoxNE": [
+                1.64,
+                2.408
+            ],
+            "bBoxSW": [
+                0.088,
+                -0.7
             ]
         },
         "accidentalThreeQuarterTonesFlatZimmermann": {
@@ -332,14 +382,24 @@
                 -0.7
             ]
         },
-        "accidentalThreeQuarterTonesSharpArrowUp": {
+        "accidentalThreeQuarterTonesSharpArrowDown": {
             "bBoxNE": [
-                0.788,
-                1.844
+                1.176,
+                0.48
             ],
             "bBoxSW": [
-                -0.096,
-                -1.456
+                0.0,
+                -1.4
+            ]
+        },
+        "accidentalThreeQuarterTonesSharpArrowUp": {
+            "bBoxNE": [
+                0.872,
+                2.06
+            ],
+            "bBoxSW": [
+                0.0,
+                -1.356
             ]
         },
         "accidentalThreeQuarterTonesSharpStein": {
@@ -2952,6 +3012,16 @@
                 -0.528
             ]
         },
+        "noteheadNull": {
+            "bBoxNE": [
+                0.0,
+                0.0
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
         "noteheadParenthesisLeft": {
             "bBoxNE": [
                 0.612,
@@ -4630,6 +4700,16 @@
                 -0.3
             ]
         },
+        "accidentalFiveQuarterTonesFlatArrowDown": {
+            "cutOutNE": [
+                0.944,
+                0.56
+            ],
+            "cutOutSE": [
+                1.32,
+                -0.3
+            ]
+        },
         "accidentalFlat": {
             "cutOutNE": [
                 0.096,
@@ -4767,15 +4847,15 @@
         "accidentalQuarterToneSharpArrowDown": {
             "cutOutNE": [
                 0.624,
-                0.864
+                0.844
             ],
             "cutOutNW": [
                 0.16,
-                0.696
+                0.644
             ],
-            "cutOutSE": [
-                0.62,
-                -0.684
+            "cutOutSW": [
+                0.16,
+                -0.82
             ]
         },
         "accidentalQuarterToneSharpNaturalArrowUp": {
@@ -4844,12 +4924,18 @@
         },
         "accidentalThreeQuarterTonesFlatArrowDown": {
             "cutOutNE": [
-                0.188,
-                0.58
+                0.184,
+                0.564
             ],
             "cutOutSE": [
-                0.588,
-                -0.272
+                0.52,
+                -0.344
+            ]
+        },
+        "accidentalThreeQuarterTonesFlatArrowUp": {
+            "cutOutSE": [
+                1.32,
+                -0.3
             ]
         },
         "accidentalThreeQuarterTonesFlatZimmermann": {
@@ -4871,17 +4957,17 @@
             ]
         },
         "accidentalThreeQuarterTonesSharpArrowUp": {
-            "cutOutNE": [
-                0.62,
-                0.88
+            "cutOutNW": [
+                0.16,
+                0.644
             ],
             "cutOutSE": [
                 0.624,
-                -0.688
+                -0.64
             ],
             "cutOutSW": [
-                0.164,
-                -0.872
+                0.16,
+                -0.82
             ]
         },
         "accidentalThreeQuarterTonesSharpStein": {
