@@ -71,7 +71,7 @@ fontlog.close()
 engravingDefaults = {
     'arrowShaftThickness': 0.16,
     'barlineSeparation': 0.4,
-    'beamSpacing': 0.20,
+    'beamSpacing': 0.25,
     'beamThickness': 0.5,
     'bracketThickness': 0.5,
     'dashedBarlineDashLength': 0.5,
