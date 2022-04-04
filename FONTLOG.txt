@@ -76,3 +76,4 @@ Version 5.2.65 - reworked tablature glyphs and fix some validation errors
 Version 5.2.66 - reworked tablature glyph duration symbols
 Version 5.2.67 - completed arrow quartertone accidental range
 Version 5.2.68 - revising and adding tremolo slashes
+Version 5.2.69 - revising and adding mensural noteheads
