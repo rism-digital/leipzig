@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.69",
+    "fontVersion": "5.2.70",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -2122,6 +2122,46 @@
                 0.0
             ]
         },
+        "luteFrench10thCourse": {
+            "bBoxNE": [
+                2.44,
+                1.076
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.064
+            ]
+        },
+        "luteFrench7thCourse": {
+            "bBoxNE": [
+                1.116,
+                0.788
+            ],
+            "bBoxSW": [
+                -0.004,
+                -0.024
+            ]
+        },
+        "luteFrench8thCourse": {
+            "bBoxNE": [
+                1.64,
+                1.076
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.064
+            ]
+        },
+        "luteFrench9thCourse": {
+            "bBoxNE": [
+                2.04,
+                1.076
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.064
+            ]
+        },
         "luteFrenchFretA": {
             "bBoxNE": [
                 1.116,
@@ -2252,104 +2292,124 @@
                 -0.0008
             ]
         },
+        "luteFrenchMordentLower": {
+            "bBoxNE": [
+                1.456,
+                1.2
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "luteFrenchMordentUpper": {
+            "bBoxNE": [
+                1.056,
+                1.2
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
         "luteItalianFret0": {
             "bBoxNE": [
-                0.892,
+                0.972,
                 0.996
             ],
             "bBoxSW": [
-                -0.012,
+                0.068,
                 -0.012
             ]
         },
         "luteItalianFret1": {
             "bBoxNE": [
-                0.612,
+                0.692,
                 0.996
             ],
             "bBoxSW": [
-                -0.0084,
+                0.072,
                 -0.016
             ]
         },
         "luteItalianFret2": {
             "bBoxNE": [
-                0.676,
+                0.756,
                 0.996
             ],
             "bBoxSW": [
-                -0.0156,
+                0.064,
                 -0.012
             ]
         },
         "luteItalianFret3": {
             "bBoxNE": [
-                0.676,
+                0.756,
                 0.996
             ],
             "bBoxSW": [
-                -0.012,
+                0.068,
                 -0.012
             ]
         },
         "luteItalianFret4": {
             "bBoxNE": [
-                0.804,
+                0.884,
                 0.996
             ],
             "bBoxSW": [
-                -0.016,
-                -0.0121
+                0.064,
+                -0.012
             ]
         },
         "luteItalianFret5": {
             "bBoxNE": [
-                0.608,
+                0.688,
                 1.016
             ],
             "bBoxSW": [
-                -0.012,
+                0.068,
                 -0.012
             ]
         },
         "luteItalianFret6": {
             "bBoxNE": [
-                0.716,
+                0.796,
                 0.996
             ],
             "bBoxSW": [
-                -0.012,
+                0.068,
                 -0.012
             ]
         },
         "luteItalianFret7": {
             "bBoxNE": [
-                0.66,
+                0.74,
                 0.996
             ],
             "bBoxSW": [
-                -0.0121,
+                0.068,
                 -0.012
             ]
         },
         "luteItalianFret8": {
             "bBoxNE": [
-                0.764,
+                0.844,
                 0.996
             ],
             "bBoxSW": [
-                -0.012,
+                0.068,
                 -0.012
             ]
         },
         "luteItalianFret9": {
             "bBoxNE": [
-                0.728,
+                0.808,
                 0.996
             ],
             "bBoxSW": [
-                -0.012,
-                -0.0126
+                0.068,
+                -0.012
             ]
         },
         "medRenFlatHardB": {
@@ -4670,6 +4730,26 @@
             "bBoxSW": [
                 0.0,
                 -0.996
+            ]
+        },
+        "timeSigCut2": {
+            "bBoxNE": [
+                1.688,
+                1.272
+            ],
+            "bBoxSW": [
+                0.08,
+                -1.276
+            ]
+        },
+        "timeSigCut3": {
+            "bBoxNE": [
+                1.568,
+                1.272
+            ],
+            "bBoxSW": [
+                0.08,
+                -1.276
             ]
         },
         "timeSigCutCommon": {
