@@ -78,3 +78,4 @@ Version 5.2.67 - completed arrow quartertone accidental range
 Version 5.2.68 - revising and adding tremolo slashes
 Version 5.2.69 - revising and adding mensural noteheads
 Version 5.2.70 - added lute tablature and cut time glyphs
+Version 5.2.71 - completed mensural clef and time signatures supplement ranges
