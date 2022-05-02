@@ -454,7 +454,7 @@
         },
         "articAccentStaccatoAbove": {
             "bBoxNE": [
-                1.388,
+                1.384,
                 1.384
             ],
             "bBoxSW": [
@@ -464,7 +464,7 @@
         },
         "articAccentStaccatoBelow": {
             "bBoxNE": [
-                1.388,
+                1.384,
                 0.0
             ],
             "bBoxSW": [
@@ -634,8 +634,8 @@
         },
         "articStaccatoAbove": {
             "bBoxNE": [
-                0.38,
-                0.376
+                0.384,
+                0.384
             ],
             "bBoxSW": [
                 0.0,
@@ -644,12 +644,12 @@
         },
         "articStaccatoBelow": {
             "bBoxNE": [
-                0.38,
+                0.384,
                 0.0
             ],
             "bBoxSW": [
                 0.0,
-                -0.376
+                -0.384
             ]
         },
         "articStressAbove": {
@@ -684,7 +684,7 @@
         },
         "articTenutoAccentAbove": {
             "bBoxNE": [
-                1.388,
+                1.384,
                 1.232
             ],
             "bBoxSW": [
@@ -694,7 +694,7 @@
         },
         "articTenutoAccentBelow": {
             "bBoxNE": [
-                1.388,
+                1.384,
                 0.0
             ],
             "bBoxSW": [
@@ -714,7 +714,7 @@
         },
         "articTenutoStaccatoAbove": {
             "bBoxNE": [
-                1.388,
+                1.384,
                 0.692
             ],
             "bBoxSW": [
@@ -724,7 +724,7 @@
         },
         "articTenutoStaccatoBelow": {
             "bBoxNE": [
-                1.388,
+                1.384,
                 0.0
             ],
             "bBoxSW": [
@@ -4980,6 +4980,46 @@
             "bBoxSW": [
                 -0.652,
                 -1.9
+            ]
+        },
+        "tremoloDivisiDots2": {
+            "bBoxNE": [
+                0.984,
+                0.384
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "tremoloDivisiDots3": {
+            "bBoxNE": [
+                1.584,
+                0.384
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "tremoloDivisiDots4": {
+            "bBoxNE": [
+                2.184,
+                0.384
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "tremoloDivisiDots6": {
+            "bBoxNE": [
+                1.584,
+                0.984
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
             ]
         },
         "tremoloFingered1": {
