@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.72",
+    "fontVersion": "5.2.73",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -1410,6 +1410,76 @@
             "bBoxSW": [
                 -0.144,
                 -0.064
+            ]
+        },
+        "elecFastForward": {
+            "bBoxNE": [
+                2.944,
+                1.92
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "elecPause": {
+            "bBoxNE": [
+                1.92,
+                1.92
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "elecPlay": {
+            "bBoxNE": [
+                1.488,
+                1.92
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "elecRewind": {
+            "bBoxNE": [
+                2.956,
+                1.92
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "elecSkipBackwards": {
+            "bBoxNE": [
+                3.336,
+                1.92
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.004
+            ]
+        },
+        "elecSkipForwards": {
+            "bBoxNE": [
+                3.336,
+                1.92
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.004
+            ]
+        },
+        "elecStop": {
+            "bBoxNE": [
+                1.92,
+                1.92
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
             ]
         },
         "fClef": {
@@ -4126,6 +4196,216 @@
             "bBoxNE": [
                 2.48,
                 1.328
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterFinger": {
+            "bBoxNE": [
+                1.872,
+                2.856
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterFist": {
+            "bBoxNE": [
+                1.872,
+                1.9098
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterHand": {
+            "bBoxNE": [
+                1.872,
+                3.008
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterHardXylophoneDown": {
+            "bBoxNE": [
+                0.92,
+                2.956
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.0
+            ]
+        },
+        "pictBeaterHardXylophoneLeft": {
+            "bBoxNE": [
+                1.564,
+                2.74
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.004
+            ]
+        },
+        "pictBeaterHardXylophoneRight": {
+            "bBoxNE": [
+                1.564,
+                2.74
+            ],
+            "bBoxSW": [
+                0.004,
+                -0.004
+            ]
+        },
+        "pictBeaterHardXylophoneUp": {
+            "bBoxNE": [
+                0.92,
+                2.956
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterMediumXylophoneDown": {
+            "bBoxNE": [
+                0.92,
+                2.956
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterMediumXylophoneLeft": {
+            "bBoxNE": [
+                1.56,
+                2.744
+            ],
+            "bBoxSW": [
+                -0.004,
+                -0.0
+            ]
+        },
+        "pictBeaterMediumXylophoneRight": {
+            "bBoxNE": [
+                1.604,
+                2.744
+            ],
+            "bBoxSW": [
+                0.04,
+                -0.0
+            ]
+        },
+        "pictBeaterMediumXylophoneUp": {
+            "bBoxNE": [
+                0.92,
+                2.956
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterSnareSticksDown": {
+            "bBoxNE": [
+                0.568,
+                3.052
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterSnareSticksUp": {
+            "bBoxNE": [
+                0.568,
+                3.052
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterSoftXylophoneDown": {
+            "bBoxNE": [
+                0.92,
+                2.956
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterSoftXylophoneLeft": {
+            "bBoxNE": [
+                1.564,
+                2.744
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.0
+            ]
+        },
+        "pictBeaterSoftXylophoneRight": {
+            "bBoxNE": [
+                1.564,
+                2.744
+            ],
+            "bBoxSW": [
+                0.004,
+                -0.0
+            ]
+        },
+        "pictBeaterSoftXylophoneUp": {
+            "bBoxNE": [
+                0.92,
+                2.956
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pictBeaterWoodXylophoneDown": {
+            "bBoxNE": [
+                0.92,
+                2.956
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.0
+            ]
+        },
+        "pictBeaterWoodXylophoneLeft": {
+            "bBoxNE": [
+                1.56,
+                2.748
+            ],
+            "bBoxSW": [
+                -0.004,
+                0.004
+            ]
+        },
+        "pictBeaterWoodXylophoneRight": {
+            "bBoxNE": [
+                1.56,
+                2.748
+            ],
+            "bBoxSW": [
+                -0.0,
+                0.004
+            ]
+        },
+        "pictBeaterWoodXylophoneUp": {
+            "bBoxNE": [
+                0.92,
+                2.956
             ],
             "bBoxSW": [
                 0.0,
