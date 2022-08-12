@@ -80,3 +80,4 @@ Version 5.2.69 - revising and adding mensural noteheads
 Version 5.2.70 - added lute tablature and cut time glyphs
 Version 5.2.71 - completed mensural clef and time signatures supplement ranges
 Version 5.2.72 - minor clefs revision
+Version 5.2.73 - add some beaters pictograms and electronic music pictograms
