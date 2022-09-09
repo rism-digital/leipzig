@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.76",
+    "fontVersion": "5.2.77",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -754,12 +754,12 @@
         },
         "augmentationDot": {
             "bBoxNE": [
-                0.74,
-                1.184
+                0.516,
+                0.264
             ],
             "bBoxSW": [
-                0.224,
-                0.66
+                0.0,
+                -0.26
             ]
         },
         "barlineDouble": {
@@ -3832,134 +3832,324 @@
                 0.0
             ]
         },
-        "note1024thUp": {
+        "metAugmentationDot": {
             "bBoxNE": [
-                2.064,
-                8.28
+                0.387,
+                0.198
             ],
             "bBoxSW": [
                 0.0,
-                0.476
+                -0.195
+            ]
+        },
+        "metNote1024thUp": {
+            "bBoxNE": [
+                2.054,
+                6.6181
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.446
+            ]
+        },
+        "metNote128thUp": {
+            "bBoxNE": [
+                2.038,
+                4.678
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "metNote16thDown": {
+            "bBoxNE": [
+                0.0,
+                0.0
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "metNote16thUp": {
+            "bBoxNE": [
+                2.054,
+                2.69
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "metNote256thUp": {
+            "bBoxNE": [
+                2.05,
+                5.2701
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "metNote32ndDown": {
+            "bBoxNE": [
+                0.0,
+                0.0
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "metNote32ndUp": {
+            "bBoxNE": [
+                2.038,
+                3.278
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "metNote512thUp": {
+            "bBoxNE": [
+                2.054,
+                5.9141
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "metNote64thUp": {
+            "bBoxNE": [
+                2.038,
+                4.002
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "metNote8thDown": {
+            "bBoxNE": [
+                0.0,
+                0.0
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "metNote8thUp": {
+            "bBoxNE": [
+                1.998,
+                2.69
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "metNoteDoubleWhole": {
+            "bBoxNE": [
+                2.38,
+                0.62
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.608
+            ]
+        },
+        "metNoteDoubleWholeSquare": {
+            "bBoxNE": [
+                1.926,
+                0.91
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.886
+            ]
+        },
+        "metNoteHalfDown": {
+            "bBoxNE": [
+                0.0,
+                0.0
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "metNoteHalfUp": {
+            "bBoxNE": [
+                1.23,
+                2.67
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.518
+            ]
+        },
+        "metNoteQuarterDown": {
+            "bBoxNE": [
+                0.0,
+                0.0
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "metNoteQuarterUp": {
+            "bBoxNE": [
+                1.21,
+                2.67
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.506
+            ]
+        },
+        "metNoteWhole": {
+            "bBoxNE": [
+                1.658,
+                0.482
+            ],
+            "bBoxSW": [
+                0.01,
+                -0.49
+            ]
+        },
+        "note1024thUp": {
+            "bBoxNE": [
+                2.064,
+                7.348
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.456
             ]
         },
         "note128thUp": {
             "bBoxNE": [
                 2.048,
-                6.54
+                5.608
             ],
             "bBoxSW": [
                 0.0,
-                0.432
+                -0.5
             ]
         },
         "note16thUp": {
             "bBoxNE": [
                 2.064,
-                4.432
+                3.5
             ],
             "bBoxSW": [
                 0.0,
-                0.432
+                -0.5
             ]
         },
         "note256thUp": {
             "bBoxNE": [
                 2.06,
-                7.132
+                6.2
             ],
             "bBoxSW": [
                 0.0,
-                0.432
+                -0.5
             ]
         },
         "note32ndUp": {
             "bBoxNE": [
                 2.048,
-                5.14
+                4.208
             ],
             "bBoxSW": [
                 0.0,
-                0.432
+                -0.5
             ]
         },
         "note512thUp": {
             "bBoxNE": [
                 2.064,
-                7.776
+                6.844
             ],
             "bBoxSW": [
                 0.0,
-                0.432
+                -0.5
             ]
         },
         "note64thUp": {
             "bBoxNE": [
                 2.048,
-                5.864
+                4.932
             ],
             "bBoxSW": [
                 0.0,
-                0.432
+                -0.5
             ]
         },
         "note8thUp": {
             "bBoxNE": [
                 2.008,
-                4.444
+                3.512
             ],
             "bBoxSW": [
                 0.0,
-                0.432
+                -0.5
             ]
         },
         "noteDoubleWhole": {
             "bBoxNE": [
                 2.38,
-                1.504
+                0.62
             ],
             "bBoxSW": [
                 0.0,
-                0.276
+                -0.608
             ]
         },
         "noteDoubleWholeSquare": {
             "bBoxNE": [
                 1.936,
-                1.84
+                0.92
             ],
             "bBoxSW": [
                 0.0,
-                0.024
+                -0.896
             ]
         },
         "noteHalfUp": {
             "bBoxNE": [
                 1.24,
-                4.288
+                3.356
             ],
             "bBoxSW": [
                 0.0,
-                0.404
+                -0.528
             ]
         },
         "noteQuarterUp": {
             "bBoxNE": [
                 1.208,
-                4.288
+                3.356
             ],
             "bBoxSW": [
                 0.0,
-                0.416
+                -0.516
             ]
         },
         "noteWhole": {
             "bBoxNE": [
                 1.668,
-                1.468
+                0.492
             ],
             "bBoxSW": [
                 0.0,
-                0.476
+                -0.5
             ]
         },
         "noteheadBlack": {

@@ -84,3 +84,4 @@ Version 5.2.73 - adding some beaters pictograms and electronic music pictograms
 Version 5.2.74 - adding caesuras
 Version 5.2.75 - add glyphs previously in VerovioText
 Version 5.2.76 - add figured bass accidentals
+Version 5.2.77 - add space and some metronom marks
