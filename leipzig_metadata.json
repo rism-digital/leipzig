@@ -3862,16 +3862,6 @@
                 -0.49
             ]
         },
-        "metNote16thDown": {
-            "bBoxNE": [
-                0.0,
-                0.0
-            ],
-            "bBoxSW": [
-                0.0,
-                0.0
-            ]
-        },
         "metNote16thUp": {
             "bBoxNE": [
                 2.054,
@@ -3890,16 +3880,6 @@
             "bBoxSW": [
                 0.01,
                 -0.49
-            ]
-        },
-        "metNote32ndDown": {
-            "bBoxNE": [
-                0.0,
-                0.0
-            ],
-            "bBoxSW": [
-                0.0,
-                0.0
             ]
         },
         "metNote32ndUp": {
@@ -3932,16 +3912,6 @@
                 -0.49
             ]
         },
-        "metNote8thDown": {
-            "bBoxNE": [
-                0.0,
-                0.0
-            ],
-            "bBoxSW": [
-                0.0,
-                0.0
-            ]
-        },
         "metNote8thUp": {
             "bBoxNE": [
                 1.998,
@@ -3972,16 +3942,6 @@
                 -0.886
             ]
         },
-        "metNoteHalfDown": {
-            "bBoxNE": [
-                0.0,
-                0.0
-            ],
-            "bBoxSW": [
-                0.0,
-                0.0
-            ]
-        },
         "metNoteHalfUp": {
             "bBoxNE": [
                 1.23,
@@ -3990,16 +3950,6 @@
             "bBoxSW": [
                 0.01,
                 -0.518
-            ]
-        },
-        "metNoteQuarterDown": {
-            "bBoxNE": [
-                0.0,
-                0.0
-            ],
-            "bBoxSW": [
-                0.0,
-                0.0
             ]
         },
         "metNoteQuarterUp": {

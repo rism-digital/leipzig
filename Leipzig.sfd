@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1395388130
-ModificationTime: 1662721940
+ModificationTime: 1662722391
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,12 +50,12 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60580 10 5
+WinInfo: 60570 10 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "stemUpSE"""  "stemDownNW"""  "cutOutNW"""  "cutOutSW"""  "cutOutSE"""  "cutOutNE""" 
-BeginChars: 1114115 633
+BeginChars: 1114115 628
 
 StartChar: uniE0A3
 Encoding: 57507 57507 0
@@ -28399,17 +28399,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniECA4
-Encoding: 60580 60580 617
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
 StartChar: uniECA5
-Encoding: 60581 60581 618
+Encoding: 60581 60581 617
 Width: 302
 VWidth: 2048
 Flags: HW
@@ -28428,17 +28419,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniECA6
-Encoding: 60582 60582 619
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
 StartChar: uniECA7
-Encoding: 60583 60583 620
+Encoding: 60583 60583 618
 Width: 502
 VWidth: 2048
 Flags: HW
@@ -28472,17 +28454,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniECA8
-Encoding: 60584 60584 621
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
 StartChar: uniECA9
-Encoding: 60585 60585 622
+Encoding: 60585 60585 619
 Width: 516
 VWidth: 2048
 Flags: HW
@@ -28532,17 +28505,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniECAA
-Encoding: 60586 60586 623
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
 StartChar: uniECAB
-Encoding: 60587 60587 624
+Encoding: 60587 60587 620
 Width: 512
 VWidth: 2048
 Flags: HW
@@ -28608,17 +28572,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniECAC
-Encoding: 60588 60588 625
-Width: 1000
-Flags: W
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
 StartChar: uniECAD
-Encoding: 60589 60589 626
+Encoding: 60589 60589 621
 Width: 512
 VWidth: 2048
 Flags: HW
@@ -28698,7 +28653,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniECAF
-Encoding: 60591 60591 627
+Encoding: 60591 60591 622
 Width: 508
 VWidth: 2048
 Flags: HW
@@ -28791,7 +28746,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniECB1
-Encoding: 60593 60593 628
+Encoding: 60593 60593 623
 Width: 517
 VWidth: 2048
 Flags: HW
@@ -28898,7 +28853,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniECB3
-Encoding: 60595 60595 629
+Encoding: 60595 60595 624
 Width: 516
 VWidth: 2048
 Flags: HW
@@ -29009,7 +28964,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniECB5
-Encoding: 60597 60597 630
+Encoding: 60597 60597 625
 Width: 515
 VWidth: 2048
 Flags: HW
@@ -29136,10 +29091,10 @@ EndSplineSet
 EndChar
 
 StartChar: uniECB7
-Encoding: 60599 60599 631
+Encoding: 60599 60599 626
 Width: 97
 VWidth: 2048
-Flags: HWO
+Flags: HW
 HStem: -48.75 98.25<13.3486 83.0437>
 VStem: 0 96.75<-35.587 36.2597>
 LayerCount: 2
@@ -29154,7 +29109,7 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 32 32 632
+Encoding: 32 32 627
 Width: 100
 Flags: W
 LayerCount: 2
