@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.74",
+    "fontVersion": "5.2.75",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -750,6 +750,16 @@
             "bBoxSW": [
                 0.0,
                 -0.668
+            ]
+        },
+        "augmentationDot": {
+            "bBoxNE": [
+                0.74,
+                1.184
+            ],
+            "bBoxSW": [
+                0.224,
+                0.66
             ]
         },
         "barlineDouble": {
@@ -1752,6 +1762,206 @@
                 -1.796
             ]
         },
+        "figbass0": {
+            "bBoxNE": [
+                1.732,
+                2.444
+            ],
+            "bBoxSW": [
+                0.088,
+                -0.032
+            ]
+        },
+        "figbass1": {
+            "bBoxNE": [
+                1.428,
+                2.44
+            ],
+            "bBoxSW": [
+                0.404,
+                0.0
+            ]
+        },
+        "figbass2": {
+            "bBoxNE": [
+                1.724,
+                2.452
+            ],
+            "bBoxSW": [
+                0.108,
+                0.0
+            ]
+        },
+        "figbass2Raised": {
+            "bBoxNE": [
+                1.724,
+                2.452
+            ],
+            "bBoxSW": [
+                0.108,
+                -0.492
+            ]
+        },
+        "figbass3": {
+            "bBoxNE": [
+                1.572,
+                2.46
+            ],
+            "bBoxSW": [
+                0.16,
+                -0.028
+            ]
+        },
+        "figbass4": {
+            "bBoxNE": [
+                1.716,
+                2.44
+            ],
+            "bBoxSW": [
+                0.04,
+                0.0
+            ]
+        },
+        "figbass4Raised": {
+            "bBoxNE": [
+                2.032,
+                2.44
+            ],
+            "bBoxSW": [
+                0.04,
+                0.0
+            ]
+        },
+        "figbass5": {
+            "bBoxNE": [
+                1.588,
+                2.5
+            ],
+            "bBoxSW": [
+                0.116,
+                -0.04
+            ]
+        },
+        "figbass5Raised1": {
+            "bBoxNE": [
+                1.588,
+                2.744
+            ],
+            "bBoxSW": [
+                0.116,
+                -0.04
+            ]
+        },
+        "figbass5Raised2": {
+            "bBoxNE": [
+                1.7,
+                2.5
+            ],
+            "bBoxSW": [
+                0.116,
+                -0.04
+            ]
+        },
+        "figbass5Raised3": {
+            "bBoxNE": [
+                1.588,
+                2.736
+            ],
+            "bBoxSW": [
+                0.116,
+                -0.276
+            ]
+        },
+        "figbass6": {
+            "bBoxNE": [
+                1.7,
+                2.488
+            ],
+            "bBoxSW": [
+                0.124,
+                -0.04
+            ]
+        },
+        "figbass6Raised": {
+            "bBoxNE": [
+                1.7,
+                2.488
+            ],
+            "bBoxSW": [
+                0.12,
+                -0.04
+            ]
+        },
+        "figbass7": {
+            "bBoxNE": [
+                1.632,
+                2.408
+            ],
+            "bBoxSW": [
+                0.072,
+                -0.032
+            ]
+        },
+        "figbass7Diminished": {
+            "bBoxNE": [
+                1.7,
+                2.408
+            ],
+            "bBoxSW": [
+                0.072,
+                -0.032
+            ]
+        },
+        "figbass7Raised1": {
+            "bBoxNE": [
+                1.632,
+                2.792
+            ],
+            "bBoxSW": [
+                0.072,
+                -0.032
+            ]
+        },
+        "figbass7Raised2": {
+            "bBoxNE": [
+                1.688,
+                2.408
+            ],
+            "bBoxSW": [
+                0.072,
+                -0.032
+            ]
+        },
+        "figbass8": {
+            "bBoxNE": [
+                1.62,
+                2.448
+            ],
+            "bBoxSW": [
+                0.208,
+                -0.04
+            ]
+        },
+        "figbass9": {
+            "bBoxNE": [
+                1.676,
+                2.448
+            ],
+            "bBoxSW": [
+                0.108,
+                -0.084
+            ]
+        },
+        "figbass9Raised": {
+            "bBoxNE": [
+                1.704,
+                2.448
+            ],
+            "bBoxSW": [
+                0.108,
+                -0.084
+            ]
+        },
         "fingering0": {
             "bBoxNE": [
                 0.96,
@@ -2540,6 +2750,36 @@
             "bBoxSW": [
                 0.068,
                 -0.012
+            ]
+        },
+        "lyricsElision": {
+            "bBoxNE": [
+                1.596,
+                -0.176
+            ],
+            "bBoxSW": [
+                -0.224,
+                -0.62
+            ]
+        },
+        "lyricsElisionNarrow": {
+            "bBoxNE": [
+                1.076,
+                -0.176
+            ],
+            "bBoxSW": [
+                -0.224,
+                -0.62
+            ]
+        },
+        "lyricsElisionWide": {
+            "bBoxNE": [
+                2.18,
+                -0.176
+            ],
+            "bBoxSW": [
+                -0.224,
+                -0.62
             ]
         },
         "medRenFlatHardB": {
@@ -3540,6 +3780,136 @@
             "bBoxSW": [
                 0.0,
                 0.0
+            ]
+        },
+        "note1024thUp": {
+            "bBoxNE": [
+                2.064,
+                8.28
+            ],
+            "bBoxSW": [
+                0.0,
+                0.476
+            ]
+        },
+        "note128thUp": {
+            "bBoxNE": [
+                2.048,
+                6.54
+            ],
+            "bBoxSW": [
+                0.0,
+                0.432
+            ]
+        },
+        "note16thUp": {
+            "bBoxNE": [
+                2.064,
+                4.432
+            ],
+            "bBoxSW": [
+                0.0,
+                0.432
+            ]
+        },
+        "note256thUp": {
+            "bBoxNE": [
+                2.06,
+                7.132
+            ],
+            "bBoxSW": [
+                0.0,
+                0.432
+            ]
+        },
+        "note32ndUp": {
+            "bBoxNE": [
+                2.048,
+                5.14
+            ],
+            "bBoxSW": [
+                0.0,
+                0.432
+            ]
+        },
+        "note512thUp": {
+            "bBoxNE": [
+                2.064,
+                7.776
+            ],
+            "bBoxSW": [
+                0.0,
+                0.432
+            ]
+        },
+        "note64thUp": {
+            "bBoxNE": [
+                2.048,
+                5.864
+            ],
+            "bBoxSW": [
+                0.0,
+                0.432
+            ]
+        },
+        "note8thUp": {
+            "bBoxNE": [
+                2.008,
+                4.444
+            ],
+            "bBoxSW": [
+                0.0,
+                0.432
+            ]
+        },
+        "noteDoubleWhole": {
+            "bBoxNE": [
+                2.38,
+                1.504
+            ],
+            "bBoxSW": [
+                0.0,
+                0.276
+            ]
+        },
+        "noteDoubleWholeSquare": {
+            "bBoxNE": [
+                1.936,
+                1.84
+            ],
+            "bBoxSW": [
+                0.0,
+                0.024
+            ]
+        },
+        "noteHalfUp": {
+            "bBoxNE": [
+                1.24,
+                4.288
+            ],
+            "bBoxSW": [
+                0.0,
+                0.404
+            ]
+        },
+        "noteQuarterUp": {
+            "bBoxNE": [
+                1.208,
+                4.288
+            ],
+            "bBoxSW": [
+                0.0,
+                0.416
+            ]
+        },
+        "noteWhole": {
+            "bBoxNE": [
+                1.668,
+                1.468
+            ],
+            "bBoxSW": [
+                0.0,
+                0.476
             ]
         },
         "noteheadBlack": {

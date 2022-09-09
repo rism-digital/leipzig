@@ -82,3 +82,4 @@ Version 5.2.71 - completed mensural clef and time signatures supplement ranges
 Version 5.2.72 - minor clefs revision
 Version 5.2.73 - adding some beaters pictograms and electronic music pictograms
 Version 5.2.74 - adding caesuras
+Version 5.2.75 - add glyphs previously in VerovioText
