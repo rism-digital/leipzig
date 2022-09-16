@@ -59,6 +59,12 @@ except EnvironmentError:
 # generating OpenType font:
 print("Generating OpenType font")
 font.generate(font.fontname+'.otf', '', 'opentype')
+print("Generating TrueType font")
+font.generate(font.fontname+'.ttf')
+print("Generating WOFF2 font")
+font.generate(font.fontname+'.woff2')
+print("Generating SVG font")
+font.generate(font.fontname+'.svg')
 metadata = {'fontName': font.fontname, 'fontVersion': font.version}
 
 # extracting font log
