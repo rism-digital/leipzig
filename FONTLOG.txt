@@ -86,3 +86,4 @@ Version 5.2.75 - add glyphs previously in VerovioText
 Version 5.2.76 - add figured bass accidentals
 Version 5.2.77 - add space and some metronom marks
 Version 5.2.78 - fix x-adv of some glyph and some validation issues
+Version 5.2.79 - add some plainchant glyphs (single and multiple forms)
