@@ -87,3 +87,5 @@ Version 5.2.76 - add figured bass accidentals
 Version 5.2.77 - add space and some metronom marks
 Version 5.2.78 - fix x-adv of some glyph and some validation issues
 Version 5.2.79 - add some plainchant glyphs (single and multiple forms)
+Version 5.2.80 - remove wrongly placed glyphs
+Version 5.2.81 - add presian accidental and add missing plainchant glyph
