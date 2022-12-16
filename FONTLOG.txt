@@ -77,7 +77,7 @@ Version 5.2.66 - reworked tablature glyph duration symbols
 Version 5.2.67 - completed arrow quartertone accidental range
 Version 5.2.68 - revising and adding tremolo slashes
 Version 5.2.69 - revising and adding mensural noteheads
-Version 5.2.70 - added lute tablature and cut time glyphs
+Version 5.2.70 - adding lute tablature and cut time glyphs
 Version 5.2.71 - completed mensural clef and time signatures supplement ranges
 Version 5.2.72 - minor clefs revision
 Version 5.2.73 - adding some beaters pictograms and electronic music pictograms
@@ -88,4 +88,5 @@ Version 5.2.77 - add space and some metronom marks
 Version 5.2.78 - fix x-adv of some glyph and some validation issues
 Version 5.2.79 - add some plainchant glyphs (single and multiple forms)
 Version 5.2.80 - remove wrongly placed glyphs
-Version 5.2.81 - add presian accidental and add missing plainchant glyph
+Version 5.2.81 - adding presian accidental and missing plainchant glyph
+Version 5.2.82 - adding octaves supplement, minor refinements and fixes
