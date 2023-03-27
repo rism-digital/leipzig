@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.82",
+    "fontVersion": "5.2.83",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -5452,6 +5452,36 @@
                 0.0
             ]
         },
+        "pluckedDampAll": {
+            "bBoxNE": [
+                1.32,
+                1.32
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pluckedDampOnStem": {
+            "bBoxNE": [
+                1.304,
+                0.824
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pluckedFingernailFlick": {
+            "bBoxNE": [
+                0.568,
+                0.824
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
         "pluckedLeftHandPizzicato": {
             "bBoxNE": [
                 1.32,
@@ -5476,6 +5506,16 @@
             "bBoxNE": [
                 0.824,
                 1.064
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "pluckedWithFingernails": {
+            "bBoxNE": [
+                0.824,
+                0.572
             ],
             "bBoxSW": [
                 0.0,
