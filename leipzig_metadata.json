@@ -4634,22 +4634,22 @@
         },
         "metNoteDoubleWhole": {
             "bBoxNE": [
-                2.38,
-                0.62
+                2.18,
+                0.68
             ],
             "bBoxSW": [
                 0.0,
-                -0.608
+                -0.68
             ]
         },
         "metNoteDoubleWholeSquare": {
             "bBoxNE": [
-                1.928,
-                0.912
+                1.392,
+                0.68
             ],
             "bBoxSW": [
-                0.008,
-                -0.888
+                0.0,
+                -0.68
             ]
         },
         "metNoteHalfUp": {
@@ -4764,22 +4764,22 @@
         },
         "noteDoubleWhole": {
             "bBoxNE": [
-                2.38,
-                0.62
+                2.18,
+                0.68
             ],
             "bBoxSW": [
                 0.0,
-                -0.608
+                -0.68
             ]
         },
         "noteDoubleWholeSquare": {
             "bBoxNE": [
-                1.936,
-                0.92
+                1.392,
+                0.68
             ],
             "bBoxSW": [
                 0.0,
-                -0.896
+                -0.68
             ]
         },
         "noteHalfUp": {
@@ -4804,12 +4804,12 @@
         },
         "noteWhole": {
             "bBoxNE": [
-                1.668,
-                0.492
+                1.62,
+                0.532
             ],
             "bBoxSW": [
                 0.0,
-                -0.5
+                -0.532
             ]
         },
         "noteheadBlack": {
@@ -7632,14 +7632,6 @@
             "cutOutSE": [
                 1.568,
                 -0.232
-            ],
-            "stemDownNW": [
-                0.0,
-                0.0
-            ],
-            "stemUpSE": [
-                1.62,
-                0.0
             ]
         },
         "noteheadWholeFilled": {
