@@ -90,3 +90,6 @@ Version 5.2.79 - add some plainchant glyphs (single and multiple forms)
 Version 5.2.80 - remove wrongly placed glyphs
 Version 5.2.81 - adding presian accidental and missing plainchant glyph
 Version 5.2.82 - adding octaves supplement, minor refinements and fixes
+Version 5.2.83 - adding glyphs from the plucked range
+Version 5.2.84 - adding half pedal marks
+Version 5.2.85 - adding German lute tablature glyphs
