@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1395388130
-ModificationTime: 1688293741
+ModificationTime: 1688295521
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -56,7 +56,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "stemUpSE"""  "stemDownNW"""  "cutOutNW"""  "cutOutSW"""  "cutOutSE"""  "cutOutNE""" 
-BeginChars: 1114115 724
+BeginChars: 1114115 731
 
 StartChar: uniE0A3
 Encoding: 57507 57507 0
@@ -32089,7 +32089,56 @@ EndChar
 
 StartChar: uniEB97
 Encoding: 60311 60311 723
-Width: 1000
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniEB98
+Encoding: 60312 60312 724
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniEB99
+Encoding: 60313 60313 725
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniEB9A
+Encoding: 60314 60314 726
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniEB9B
+Encoding: 60315 60315 727
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniEB9C
+Encoding: 60316 60316 728
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniEB9D
+Encoding: 60317 60317 729
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniEB9E
+Encoding: 60318 60318 730
+Width: 0
 Flags: HW
 LayerCount: 2
 EndChar
