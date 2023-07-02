@@ -93,3 +93,4 @@ Version 5.2.82 - adding octaves supplement, minor refinements and fixes
 Version 5.2.83 - adding glyphs from the plucked range
 Version 5.2.84 - adding half pedal marks
 Version 5.2.85 - adding German lute tablature glyphs
+Version 5.2.86 - adding chant division and staff raise glyphs
