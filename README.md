@@ -5,3 +5,5 @@ Repository for the Leipzig music font. The font was initially developed by Etien
 Since version 5.0, the Leipzig font is compliant with the [Standard Music Font Layout (SMuFL)](https://www.smufl.org/). 
 
 It is distributed under the [SIL Open Font License (OFL), Version 1.1](./LICENSE.txt).
+
+You can view the list of glyphs [here](https://torinak.com/font/lsfont.html#https://raw.githubusercontent.com/rism-digital/leipzig/main/Leipzig.otf).
