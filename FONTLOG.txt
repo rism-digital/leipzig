@@ -63,14 +63,14 @@ Version 5.2.52 - adding old accidentals and completing the octaves range
 Version 5.2.53 - fix arpeggio arrow down direction
 Version 5.2.54 - fix time signature margins
 Version 5.2.55 - complete Petrucci C clefs range
-Version 5.2.56 - add glyphs to Time signatures range
-Version 5.2.57 - add soft accents
+Version 5.2.56 - adding glyphs to Time signatures range
+Version 5.2.57 - adding soft accents
 Version 5.2.58 - fix arpeggio arrow width
 Version 5.2.59 - adding Henze fermatas
 Version 5.2.60 - reworked arpeggio glyphs and added glissando glyph
-Version 5.2.61 - add glyphs for muted brass
-Version 5.2.62 - add double whole note glyphs
-Version 5.2.63 - add barlines, repeat dots, and square coda
+Version 5.2.61 - adding glyphs for muted brass
+Version 5.2.62 - adding double whole note glyphs
+Version 5.2.63 - adding barlines, repeat dots, and square coda
 Version 5.2.64 - completed rests and bar repeats range
 Version 5.2.65 - reworked tablature glyphs and fix some validation errors
 Version 5.2.66 - reworked tablature glyph duration symbols
@@ -82,9 +82,9 @@ Version 5.2.71 - completed mensural clef and time signatures supplement ranges
 Version 5.2.72 - minor clefs revision
 Version 5.2.73 - adding some beaters pictograms and electronic music pictograms
 Version 5.2.74 - adding caesuras
-Version 5.2.75 - add glyphs previously in VerovioText
-Version 5.2.76 - add figured bass accidentals
-Version 5.2.77 - add space and some metronom marks
+Version 5.2.75 - adding glyphs previously in VerovioText
+Version 5.2.76 - adding figured bass accidentals
+Version 5.2.77 - adding space and some metronom marks
 Version 5.2.78 - fix x-adv of some glyph and some validation issues
 Version 5.2.79 - add some plainchant glyphs (single and multiple forms)
 Version 5.2.80 - remove wrongly placed glyphs
@@ -95,3 +95,4 @@ Version 5.2.84 - adding half pedal marks
 Version 5.2.85 - adding German lute tablature glyphs
 Version 5.2.86 - adding chant division and staff raise glyphs
 Version 5.2.87 - adding chant staff raise glyph
+Version 5.2.88 - adding filled minim notehead
