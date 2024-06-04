@@ -96,3 +96,4 @@ Version 5.2.85 - adding German lute tablature glyphs
 Version 5.2.86 - adding chant division and staff raise glyphs
 Version 5.2.87 - adding chant staff raise glyph
 Version 5.2.88 - adding filled minim notehead
+Version 5.2.89 - adding anchor points to mensural noteheads
