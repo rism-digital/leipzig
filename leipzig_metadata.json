@@ -4464,91 +4464,91 @@
         },
         "mensuralProportion1": {
             "bBoxNE": [
-                0.72,
+                0.8,
                 0.76
             ],
             "bBoxSW": [
-                -0.0006,
+                0.0794,
                 -0.8
             ]
         },
         "mensuralProportion2": {
             "bBoxNE": [
-                1.0161,
+                1.0961,
                 0.7601
             ],
             "bBoxSW": [
-                0.0,
+                0.08,
                 -0.8
             ]
         },
         "mensuralProportion3": {
             "bBoxNE": [
-                0.864,
+                0.952,
                 0.76
             ],
             "bBoxSW": [
-                0.004,
+                0.092,
                 -0.804
             ]
         },
         "mensuralProportion4": {
             "bBoxNE": [
-                1.016,
+                1.096,
                 0.72
             ],
             "bBoxSW": [
-                0.0,
+                0.08,
                 -0.808
             ]
         },
         "mensuralProportion5": {
             "bBoxNE": [
-                1.016,
+                1.04,
                 0.768
             ],
             "bBoxSW": [
-                -0.008,
+                0.072,
                 -0.8001
             ]
         },
         "mensuralProportion6": {
             "bBoxNE": [
-                0.912,
+                0.992,
                 0.76
             ],
             "bBoxSW": [
-                -0.0213,
+                0.0587,
                 -0.8
             ]
         },
         "mensuralProportion7": {
             "bBoxNE": [
-                0.932,
+                1.012,
                 0.76
             ],
             "bBoxSW": [
-                0.0,
-                -0.8
+                0.08,
+                -0.804
             ]
         },
         "mensuralProportion8": {
             "bBoxNE": [
-                0.932,
+                1.012,
                 0.76
             ],
             "bBoxSW": [
-                0.0,
+                0.08,
                 -0.8
             ]
         },
         "mensuralProportion9": {
             "bBoxNE": [
-                0.912,
+                0.992,
                 0.76
             ],
             "bBoxSW": [
-                -0.0213,
+                0.0587,
                 -0.8
             ]
         },
