@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.89",
+    "fontVersion": "5.2.91",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -1414,12 +1414,12 @@
         },
         "chantPunctumDeminutum": {
             "bBoxNE": [
-                0.5,
-                0.352
+                0.364,
+                0.232
             ],
             "bBoxSW": [
-                0.012,
-                -0.348
+                0.0,
+                -0.228
             ]
         },
         "chantPunctumInclinatum": {
@@ -3632,6 +3632,16 @@
                 -1.016
             ]
         },
+        "medRenOriscusCMN": {
+            "bBoxNE": [
+                1.276,
+                0.52
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.524
+            ]
+        },
         "medRenSharpCroix": {
             "bBoxNE": [
                 1.168,
@@ -4508,13 +4518,13 @@
                 0.768
             ],
             "bBoxSW": [
-                0.072,
+                0.052,
                 -0.8001
             ]
         },
         "mensuralProportion6": {
             "bBoxNE": [
-                0.992,
+                0.988,
                 0.76
             ],
             "bBoxSW": [
@@ -4548,7 +4558,7 @@
                 0.76
             ],
             "bBoxSW": [
-                0.0587,
+                0.0627,
                 -0.8
             ]
         },
