@@ -30,7 +30,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Leipzig",
-    "fontVersion": "5.2.93",
+    "fontVersion": "5.2.94",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -3910,6 +3910,16 @@
             "bBoxSW": [
                 0.0,
                 -3.532
+            ]
+        },
+        "mensuralGclef": {
+            "bBoxNE": [
+                1.512,
+                0.924
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.928
             ]
         },
         "mensuralGclefPetrucci": {
