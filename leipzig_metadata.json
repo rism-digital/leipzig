@@ -4992,6 +4992,16 @@
                 -0.532
             ]
         },
+        "noteheadCircleX": {
+            "bBoxNE": [
+                0.996,
+                0.5
+            ],
+            "bBoxSW": [
+                0.0,
+                -0.5
+            ]
+        },
         "noteheadDiamondBlack": {
             "bBoxNE": [
                 1.256,
