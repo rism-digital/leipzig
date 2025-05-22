@@ -8,8 +8,8 @@ It is distributed under the [SIL Open Font License (OFL), Version 1.1](./LICENSE
 
 You can view the list of glyphs [here](https://torinak.com/font/lsfont.html#https://raw.githubusercontent.com/rism-digital/leipzig/main/Leipzig.otf).
 
-## Generating to font related files
+## Generation of font files
 
-The `Leipzig.otf`, `Leipzig.svg`, `Leipzig.ttf`, `Leipzig.woff2`, and the `leipzig_metadata.json` are all generated from the `Leipzig.sfd` file using the `generate_font.py` script. 
+The [Leipzig.otf](./Leipzig.otf), [Leipzig.svg](./Leipzig.svg), [Leipzig.ttf](./Leipzig.ttf), [Leipzig.woff2](./Leipzig.woff2), and the corresponding [leipzig_metadata.json](./leipzig_metadata.json) are all generated from the [Leipzig.sfd](./Leipzig.sfd) file using the [generate_font.py](./generate_font.py) script. 
 
-The script requires the `fontforge` package. Instead of installing the `fontforge` package, it is also possible to use the Python interpreter embedded in FontForge (e.g., `/Applications/FontForge.app/Contents/Frameworks/Python.framework/Versions/3.9/bin/python3 generate_font.py`)  
+The script requires the `fontforge` package. Instead of installing the `fontforge` package, it is also possible to use the Python interpreter embedded in [FontForge](https://fontforge.org) (on macOS e.g., `/Applications/FontForge.app/Contents/Frameworks/Python.framework/Versions/3.9/bin/python3 generate_font.py`)  
