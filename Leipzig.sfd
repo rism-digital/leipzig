@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1395388130
-ModificationTime: 1747920074
+ModificationTime: 1748285123
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -51,12 +51,12 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 150
-WinInfo: 57519 11 5
+WinInfo: 58553 11 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "stemUpSE"""  "stemDownNW"""  "cutOutNW"""  "cutOutSW"""  "cutOutSE"""  "cutOutNE""" 
-BeginChars: 1114115 757
+BeginChars: 1114115 758
 
 StartChar: uniE0A3
 Encoding: 57507 57507 0
@@ -33176,6 +33176,41 @@ SplineSet
  219 101 207 92 198 78 c 0
  196.588098767 74.9997098808 195.331936995 72.1863071138 194.220520246 69.460841768 c 2
  360.609335387 -47.0455219498 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE4D5
+Encoding: 58581 58581 757
+Width: 600
+Flags: HW
+HStem: 0 21G<31 58.5> 164 136<22.4731 90>
+VStem: 107 73<105.011 208>
+LayerCount: 2
+Fore
+SplineSet
+304 -26 m 1
+ 292 -28 l 1
+ 284 -28 l 2
+ 263 -28 247 -21 234 -8 c 0
+ 221 5 215 21 214 38 c 1
+ 214 57 222 74 237 87 c 1
+ 251 101 272 108 300 108 c 0
+ 329 108 352 98 369 77 c 0
+ 386 56 394 31 394 1 c 0
+ 394 -19 391 -38 385 -57 c 0
+ 379 -76 369 -95 356 -114 c 0
+ 332 -149 296 -175 249 -192 c 1
+ 245 -175 l 1
+ 269 -166 288 -151 301 -131 c 0
+ 314 -111 321 -90 321 -69 c 0
+ 321 -49 315 -35 304 -26 c 1
+0 0 m 17
+ 0 0 40 320 300 320 c 0
+ 560 320 600 0 600 0 c 1
+ 568 0 l 1
+ 568 0 530 227 300 227 c 0
+ 70 227 32 0 32 0 c 1
+ 0 0 l 17
 EndSplineSet
 EndChar
 EndChars
