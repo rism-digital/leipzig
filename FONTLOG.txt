@@ -104,3 +104,4 @@ Version 5.2.93 - adding square note heads
 Version 5.2.94 - adding neume G clef
 Version 5.2.95 - adding circle X notehead
 Version 5.2.96 - adding noteheads with slash and backslash
+Version 5.2.97 - adding Salzedo breath mark
