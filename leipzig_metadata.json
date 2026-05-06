@@ -3662,6 +3662,16 @@
                 -0.4963
             ]
         },
+        "medRenStrophicusCMN": {
+            "bBoxNE": [
+                0.7368,
+                0.5451
+            ],
+            "bBoxSW": [
+                -0.0025,
+                -0.5535
+            ]
+        },
         "mensuralCclef": {
             "bBoxNE": [
                 2.104,
