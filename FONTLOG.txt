@@ -107,4 +107,5 @@ Version 5.2.96 - adding noteheads with slash and backslash
 Version 5.2.97 - adding Salzedo breath mark
 Version 5.2.98 - adding medRenOriscusCMN SMUFL glyph
 Version 5.2.99 - adding episema and ictus
-Version 5.2.100 - adding epsisema (was missing)
+Version 5.2.100 - adding epsisema
+Version 5.2.101 - fix Italian tenor clef
